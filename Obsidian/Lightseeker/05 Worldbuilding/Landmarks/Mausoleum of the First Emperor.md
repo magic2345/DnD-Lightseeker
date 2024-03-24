@@ -1,0 +1,1 @@
+It is said that [[Silas Vanblume|Emperor Silas]] hid the secret of ascending to the heavens here.

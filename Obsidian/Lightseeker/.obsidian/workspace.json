@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "00 Game Details/Game Pitch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "00 Game Details/Game Pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "00 Game Details/Game Pitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "00 Game Details/Game Pitch.md"
               }
             }
           }
@@ -146,8 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "130843612d859e07",
+  "active": "c062ed2fd9373646",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Pasted image 20240324193035.png",
+    "05 Worldbuilding/Landmarks/Mausoleum of the First Emperor.md",
+    "00 Game Details/Game Pitch.md",
+    "05 Worldbuilding/Kingdom/Vanblume.md",
+    "05 Worldbuilding/Kingdom/Faerun.md",
+    "05 Worldbuilding/Historical Events/The First Emperor's Curse.md",
+    "05 Worldbuilding/Historical Events/The Great War.md",
+    "05 Worldbuilding/Secrets Clues/Mist.md",
+    "01 Characters/00 Historical Figures/Silas Vanblume.md",
+    "01 Characters/00 Historical Figures",
+    "05 Worldbuilding/Secrets Clues",
+    "05 Worldbuilding/Historical Events",
+    "05 Worldbuilding/Landmarks",
+    "05 Worldbuilding/Places Areas",
+    "Welcome.md",
+    "05 Worldbuilding/Kingdom",
+    "05 Worldbuilding",
+    "04 Session Recaps",
+    "03 Session Details",
+    "02 Player Characters"
   ]
 }
