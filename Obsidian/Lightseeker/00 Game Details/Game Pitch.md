@@ -1,10 +1,26 @@
-**“Halt the destruction of Aurum, the capital city of the holy kingdom, the place you call home.”**
+**“Live. Survive. Escape the mist. Find the truth. Seek the light.”**
 
 ### The Setting's Six Truths
-1. 
+1. Strange mist has covered the kingdom for the last 80 years, blocking out most of the sun.
+2. The land is blighted, the waters poisoned. It is rare to find safe food and drink.
+3. Living beings mutate and adapt to the surroundings, creating terrifying ghastly horrors.
+4. Any semblance of civilization is few and far between.
+5. Only the church is able to somewhat purify the contaminants. Even then, not many are gifted in the divine.
+6. Insanity is rampant within the people. Hold yourself back and control it, lest it control you.
 
 ### Main Conflicts and Themes
-- 
+- Loss of humanity.
+- Mutation and corruption.
+- Survival and horror.
+- Sins of the past.
+- Trust and control.
+- Finding hope in the depths of despair.
+
+### Who are you?
+Whoever you are in the past, several things are true now.
+- You are on your last legs. You have nowhere else to turn to. You are forced to become Hunters, those who embrace the corruption to go out into the wilderness and hunt creatures. Hunters are respected, feared, and ostracized.
+- Yet, who were you before becoming a hunter? Did you live a decent life or were you starving on the streets since you could remember? How did your life crumble?
+- You have been given an offer to become a hunter by Andurin Cragscliff, an old veteran hunter. What is your relationship with him.
 
 
 ### Setting Notes
