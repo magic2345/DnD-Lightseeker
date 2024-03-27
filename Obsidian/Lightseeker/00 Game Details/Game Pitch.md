@@ -20,7 +20,7 @@
 Whoever you are in the past, several things are true now.
 - You are on your last legs. You have nowhere else to go. Circumstances have forced you to become Hunters, those who embrace corruption to go out into the wilderness and hunt. Hunters are respected, feared, and ostracized.
 - Yet, who were you before becoming a hunter? Did you live a decent life or were you starving on the streets since you could remember? How did your life crumble? Are there any pieces left?
-- You have been given an offer to become a hunter by Andurin Cragscliff, an old veteran hunter. What is your relationship with him?
+- You have been given an offer to become a hunter by Andurin Cragscliff, an old veteran hunter. The grey-haired dwarf styles himself as a historian of sorts, trying to find out the origins of the mist. What is your relationship with him? How did he find you?
 
 
 ### Setting Notes
