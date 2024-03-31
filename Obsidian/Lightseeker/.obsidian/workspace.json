@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e703191670892964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Hexmap/Key Possibilities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 233.5
   },
   "right": {
     "id": "f694db135d5bf0dc",
@@ -148,26 +160,42 @@
   },
   "active": "c062ed2fd9373646",
   "lastOpenFiles": [
-    "00 Game Details/Unused.md",
+    "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
     "00 Game Details/Game Pitch.md",
-    "Pasted image 20240324193035.png",
-    "05 Worldbuilding/Landmarks/Mausoleum of the First Emperor.md",
+    "05 Worldbuilding/Rivers Lakes Ponds/Alvsky River.md",
+    "05 Worldbuilding/Villages Towns Cities/Dona Village.md",
+    "05 Worldbuilding/Villages Towns Cities/Chomoor Village Ruins.md",
+    "05 Worldbuilding/Villages Towns Cities/Oakweller Village.md",
+    "05 Worldbuilding/Villages Towns Cities/Nisa Village.md",
+    "05 Worldbuilding/Hills Mountains/Horcian Mountain.md",
+    "05 Worldbuilding/Hills Mountains/Lunathan Mountain.md",
+    "05 Worldbuilding/Factions/Rhalgar's Fang.md",
+    "05 Worldbuilding/Divine/Rhalgar.md",
+    "05 Worldbuilding/Divine/Minareth.md",
+    "05 Worldbuilding/Divine",
+    "05 Worldbuilding/Rivers Lakes Ponds",
+    "05 Worldbuilding/Hills Mountains",
+    "06 Hexmap/Factions.md",
+    "06 Hexmap/Key.md",
+    "06 Hexmap/Encounters.md",
+    "06 Hexmap/Key Possibilities.md",
     "05 Worldbuilding/Kingdom/Vanblume.md",
+    "06 Hexmap/Encounters",
+    "05 Worldbuilding/Places Areas/Garmund Forest.md",
+    "05 Worldbuilding/Factions",
+    "00 Game Details/Unused House Rules.md",
+    "06 Hexmap",
     "05 Worldbuilding/Kingdom/Faerun.md",
+    "05 Worldbuilding/Landmarks/Mausoleum of the First Emperor.md",
+    "05 Worldbuilding/Villages Towns Cities",
     "05 Worldbuilding/Historical Events/The First Emperor's Curse.md",
     "05 Worldbuilding/Historical Events/The Great War.md",
-    "05 Worldbuilding/Secrets Clues/Mist.md",
+    "Pasted image 20240324193035.png",
     "01 Characters/00 Historical Figures/Silas Vanblume.md",
+    "05 Worldbuilding/Secrets Clues/Mist.md",
     "01 Characters/00 Historical Figures",
     "05 Worldbuilding/Secrets Clues",
     "05 Worldbuilding/Historical Events",
-    "05 Worldbuilding/Landmarks",
-    "05 Worldbuilding/Places Areas",
-    "Welcome.md",
-    "05 Worldbuilding/Kingdom",
-    "05 Worldbuilding",
-    "04 Session Recaps",
-    "03 Session Details",
-    "02 Player Characters"
+    "Welcome.md"
   ]
 }

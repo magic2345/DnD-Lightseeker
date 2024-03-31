@@ -58,3 +58,15 @@ Warped Weave
   Treat the spellcasting check as the attack roll.
 - Spell Saves
   Enemy still rolls a save.
+
+
+
+
+
+
+Other than the 6 ability scores, each player has a Madness Score which starts out at 0 and has a max of 10.
+   - Each time the player willingly and knowingly does something inhumane (such as killing an innocent), witness a horrifying event, learn a mind-shattering secret/knowledge, or become the target of a madness-inducing effect, they must roll an Intelligence, Wisdom, or Charisma saving throw.
+   - The DC is equal to 10 + Madness Score.
+   - On a success, nothing happens as the player manages to resist the madness.
+   - On a failure, the player must roll on the Madness table (Short-Term table for Madness Score of 0-5 and Long-Term table for Madness Score of 6-10). The player's Madness Score also increases by 1. 
+   - If a player's Madness Score would go over 10, they succumb to the corruption and become a mindless monster driven by madness.
