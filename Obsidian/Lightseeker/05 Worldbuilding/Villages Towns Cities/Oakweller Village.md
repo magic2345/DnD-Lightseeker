@@ -1,4 +1,4 @@
-[[Key|Coordinates: E.6]]
+[[Key|Coordinates: -3.-1]]
 Located in [[Garmund Forest]].
 
 - Population 560, primarily elfs, some satyr.

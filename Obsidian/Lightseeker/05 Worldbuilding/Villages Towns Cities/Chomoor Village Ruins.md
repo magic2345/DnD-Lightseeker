@@ -1,4 +1,4 @@
-[[Key|Coordinates: J.12]]
+[[Key|Coordinates: 2,3]]
 Located in [[Garmund Forest]].
 
 - Razed by Rhalgar's Fang.

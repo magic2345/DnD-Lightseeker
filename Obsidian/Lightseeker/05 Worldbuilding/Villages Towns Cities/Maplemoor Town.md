@@ -1,4 +1,4 @@
-[[Key|Coordinates: H.8]]
+[[Key|Coordinates: 0,0]]
 Located in [[Garmund Forest]].
 
 - Population 1100, mostly dwarf, some human.

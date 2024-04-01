@@ -1,4 +1,4 @@
-[[Key|Coordinates: E.13]]
+[[Key|Coordinates: -3,-6]]
 Located in [[Garmund Forest]].
 
 - Population 880, mostly human, some minotaur.

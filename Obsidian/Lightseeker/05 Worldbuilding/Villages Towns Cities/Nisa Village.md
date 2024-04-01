@@ -1,4 +1,4 @@
-[[Key|Coordinates: J.4]]
+[[Key|Coordinates: 2.-5]]
 Located in [[Garmund Forest]].
 
 - Population 250, mixed human and elf.
