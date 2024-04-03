@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
+                "file": "05 Worldbuilding/Places Areas/Whiteshell Caverns.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
+                "file": "05 Worldbuilding/Places Areas/Whiteshell Caverns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
+                "file": "05 Worldbuilding/Places Areas/Whiteshell Caverns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Worldbuilding/Location Keys/Cliffside Wizard House.md"
+                "file": "05 Worldbuilding/Places Areas/Whiteshell Caverns.md"
               }
             }
           }
@@ -192,8 +192,12 @@
   "active": "076adc677a4e1fa2",
   "lastOpenFiles": [
     "05 Worldbuilding/Location Keys/Seal of the Deep.md",
+    "05 Worldbuilding/Places Areas/Whiteshell Caverns.md",
     "06 Hexmap/Key.md",
+    "Pasted image 20240324193035.png",
+    "Attachments",
     "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
+    "05 Worldbuilding/Regions",
     "05 Worldbuilding/Villages Towns Cities/Dona Village.md",
     "05 Worldbuilding/Villages Towns Cities/Oakweller Village.md",
     "05 Worldbuilding/Villages Towns Cities/Nisa Village.md",
@@ -217,16 +221,11 @@
     "06 Hexmap/Encounters.md",
     "05 Worldbuilding/Kingdom/Vanblume.md",
     "06 Hexmap/Encounters",
-    "05 Worldbuilding/Places Areas/Garmund Forest.md",
+    "05 Worldbuilding/Regions/Garmund Forest.md",
     "05 Worldbuilding/Factions",
     "00 Game Details/Unused House Rules.md",
     "06 Hexmap",
     "05 Worldbuilding/Kingdom/Faerun.md",
-    "05 Worldbuilding/Landmarks/Mausoleum of the First Emperor.md",
-    "05 Worldbuilding/Villages Towns Cities",
-    "05 Worldbuilding/Historical Events/The First Emperor's Curse.md",
-    "Pasted image 20240324193035.png",
-    "01 Characters/00 Historical Figures",
-    "05 Worldbuilding/Secrets Clues"
+    "05 Worldbuilding/Villages Towns Cities"
   ]
 }
