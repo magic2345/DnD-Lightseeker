@@ -6,6 +6,7 @@
       {
         "id": "6b4ccd68e462ece0",
         "type": "tabs",
+        "dimension": 54.78723404255319,
         "children": [
           {
             "id": "c062ed2fd9373646",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Hexmap/Key.md",
+                "file": "06 Hexmap/Hexmap Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -36,6 +37,7 @@
       {
         "id": "ef59ca53f85d1474",
         "type": "tabs",
+        "dimension": 45.21276595744681,
         "children": [
           {
             "id": "77bf7b6e8f2572e6",
@@ -112,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "f694db135d5bf0dc",
@@ -128,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Worldbuilding/Places Areas/Whiteshell Caverns.md",
+                "file": "06 Hexmap/Hexmap Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 Worldbuilding/Places Areas/Whiteshell Caverns.md",
+                "file": "06 Hexmap/Hexmap Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Worldbuilding/Places Areas/Whiteshell Caverns.md"
+                "file": "06 Hexmap/Hexmap Rules.md"
               }
             }
           }
@@ -189,13 +192,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "076adc677a4e1fa2",
+  "active": "c062ed2fd9373646",
   "lastOpenFiles": [
-    "05 Worldbuilding/Creatures/Beast/Blood-hungry Squid.md",
+    "Pasted image 20240404080850.png",
+    "06 Hexmap/Key Possibilities.md",
+    "06 Hexmap/Hexmap Rules.md",
+    "Pasted image 20240404054421.png",
+    "06 Hexmap/Encounter Tables.md",
     "06 Hexmap/Key.md",
+    "06 Hexmap/Factions.md",
+    "06 Hexmap/Encounters.md",
     "05 Worldbuilding/Places Areas/Whiteshell Caverns.md",
-    "05 Worldbuilding/Creatures/Aberration/Spectator.md",
+    "Rocky_Split_Cave_Gridless LQ.jpg",
     "05 Worldbuilding/Location Keys/Seal of the Deep.md",
+    "GL_CoralThrone_DeepSea LQ.jpg",
+    "05 Worldbuilding/Creatures/Beast/Blood-hungry Squid.md",
+    "05 Worldbuilding/Creatures/Aberration/Spectator.md",
     "05 Worldbuilding/Creatures/Fae/Brigganock.md",
     "05 Worldbuilding/Creatures/Beast",
     "05 Worldbuilding/Creatures/Aberration",
@@ -218,19 +230,13 @@
     "05 Worldbuilding/Villages Towns Cities/Chomoor Village Ruins.md",
     "05 Worldbuilding/Secrets Clues/Mist.md",
     "05 Worldbuilding/Location Keys",
-    "06 Hexmap/Key Possibilities.md",
     "05 Worldbuilding/Landmarks/Buried Stone Structure.md",
     "00 Game Details/Game Pitch.md",
     "05 Worldbuilding/Rivers Lakes Ponds/Alvsky River.md",
     "05 Worldbuilding/Hills Mountains/Horcian Mountain.md",
     "05 Worldbuilding/Hills Mountains/Lunathan Mountain.md",
     "05 Worldbuilding/Factions/Rhalgar's Fang.md",
-    "05 Worldbuilding/Divine/Rhalgar.md",
-    "05 Worldbuilding/Divine/Minareth.md",
     "05 Worldbuilding/Divine",
-    "05 Worldbuilding/Rivers Lakes Ponds",
-    "06 Hexmap/Factions.md",
-    "06 Hexmap/Encounters.md",
-    "05 Worldbuilding/Kingdom/Vanblume.md"
+    "05 Worldbuilding/Rivers Lakes Ponds"
   ]
 }
