@@ -10,9 +10,9 @@
 | -2  |     |     |                            |                                                 |                           |
 | -1  |     |     | [[Cliffside Wizard House]] | [[Whiteshell Caverns]],<br>[[Seal of the Deep]] |                           |
 | 0   |     |     |     [[Maplemoor Town]]     |                                                 |                           |
-| 1   |     |     |                            |                                                 |                           |
+| 1   |     |     |                            |         [[Harvington Ancestral Grave]]          |                           |
 | 2   |     |     |                            |                                                 |                           |
-| 3   |     |     |                            |                                                 | [[Chomoor Village Ruins]] |
+| 3   |     |     |                            |            [[Vain Gardens of Uerna]]            | [[Chomoor Village Ruins]] |
 | 4   |     |     |                            |                                                 |                           |
 | 5   |     |     |                            |                                                 |                           |
 | 6   |     |     |                            |                                                 |                           |

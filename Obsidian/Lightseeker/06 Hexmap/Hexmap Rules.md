@@ -143,26 +143,32 @@ A character can scout during a watch in which an expedition is traveling only if
 
 
 
+###### 10. Make Camp
+- A character can establish a camp suitable for 4 creatures if they have tents or similar equipment to shelter them. (Horses and similar creatures do not require tents, but must still be accounted for in camp preparations.)
+- If the expedition does not have equipment for shelter, the character can only establish a camp suitable for one creature (either themselves or someone else) per watch action.
+- **Favorable Site.** A character can perform an active watch action to make an Intelligence (Nature) or Wisdom (Survival) check against the Forage DC of the terrain.
+	- On a success, they have identified a favorable campsite. Characters performing the Forager action in a favorable campsite gain advantage on their forage checks.
+	- The check to identify a favorable site can also be attempted as part of a Scout action.
+###### 11. Area Search (Needs Base Camp)
+- As an active watch action, a character can search the wilderness in the hex cluster around their base camp.
+- Multiple characters performing this action simultaneously can form a search group (or multiple search groups if they split up).
+- **Encounter Check.** Make a normal encounter check for the base camp, even if no characters remain in the camp. (An encounter would indicate that the base camp has been discovered.)
+	- Make an additional encounter check for each search group. (The search counts as a travel watch for the purpose of making this encounter check.)
+- **Search Area.** The search group indicates which specific hex in the cluster (including the hex of their base camp) they wish to spend their time in.
+- **Location Discovery.** One character in each search group can attempt a Wisdom (Perception) or Intelligence (Investigation) check using the Navigation DC of the hex to find the location (+5 DC if the location is hidden).
+	- Additional characters in the group can assist, granting the searcher advantage on their check.
+- **Other Group Members.** Characters performing Sentinel or Tracker actions can join a search group. (Note that the Wisdom (Perception) checks performed by sentinels detect approaching threats, as opposed to the checks made to find locations.)
 ##### Full Hexcrawl Procedure
 ###### 1. DIRECTION & TRAVEL PACE.
 Determine the expedition’s navigator.
 Navigator determines intended direction and travel pace.
-###### 2. ENCOUNTER CHECK. Use the dice at the top of this page.
+###### 2. ENCOUNTER CHECK. Use the dice at the top [[Encounter Tables]].
 - If in a border hex, check to see which encounter table should be used.
 ###### 3. WATCH ACTIONS. Resolve all watch actions.
 ###### 4. ARE THEY LOST?
-
-If they are not following a landmark or trail, make a Navigation check.
-If they are lost, determine veer. If they are already lost, veer can be increased but not decreased.
-5. HEX PROGRESS
-
-It takes 12 miles of progress to exit one of the hex’s 3 far faces.
-It takes 6 miles of progress to exit one of the hex’s 2 near faces.
-Changing direction within a hex will result in the loss of 2 miles of progress.
-If characters double back, reduce progress until they exit the hex. If they leave the hex by any other route, it requires an additional 1d6-1 miles of progress to exit the hex.
-LEAVING A HEX:
-
-Determine new hex (by applying current veer to the expedition’s direction of travel).
-If they were lost, make a Navigation check to see if they recognize it. If they do, they can attempt to reorient. If they do not, veer accumulates. (Note: Using a compass automatically resets veer at the hex border even if they don’t recognize they were off course.)
-
-https://thealexandrian.net/wordpress/48033/roleplaying-games/5e-hexcrawl-part-7-hex-exploration
+- If they are not following a landmark or trail, make a Navigation check.
+- If they are lost, determine veer. If they are already lost, veer can be increased but not decreased.
+###### 5. HEX PROGRESS
+- Determine new hex (by applying current veer to the expedition’s direction of travel).
+- If they were lost, make a Navigation check to see if they recognize it.
+- If they do, they can attempt to reorient. If they do not, veer accumulates. (Note: Using a compass automatically resets veer at the hex border even if they don’t recognize they were off course.)
