@@ -1,6 +1,6 @@
 [[Key|Coordinates: 1,3]]
 
-- Ruins of a shrine dedicated to an ancient goddess of sun and luck.
+- Ruins of a shrine dedicated to an ancient goddess of sun and luck, now partly buried underground.
 - Now, a lamia makes its lair here, where she keeps prisoners to entertain itself.
 - She orders jackalweres to go out and enslave people.
 
