@@ -6,7 +6,7 @@
       {
         "id": "6b4ccd68e462ece0",
         "type": "tabs",
-        "dimension": 59.10112359550562,
+        "dimension": 51.78970917225951,
         "children": [
           {
             "id": "e703191670892964",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Worldbuilding/Places Areas/Vain Gardens of Uerna.md",
+                "file": "05 Worldbuilding/Places Areas/Whiteshell Caverns.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,20 +25,8 @@
       {
         "id": "ef59ca53f85d1474",
         "type": "tabs",
-        "dimension": 40.89887640449438,
+        "dimension": 48.210290827740494,
         "children": [
-          {
-            "id": "77bf7b6e8f2572e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Worldbuilding/Places Areas/Whiteshell Caverns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "076adc677a4e1fa2",
             "type": "leaf",
@@ -52,31 +40,19 @@
             }
           },
           {
-            "id": "21edc0ac25280633",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "86494e19ac170f9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Worldbuilding/Places Areas/Harvington Ancestral Grave.md",
+                "file": "05 Worldbuilding/Places Areas/Vain Gardens of Uerna.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,25 +179,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e703191670892964",
+  "active": "86494e19ac170f9c",
   "lastOpenFiles": [
+    "05 Worldbuilding/Places Areas/Shingleberry Circle.md",
+    "05 Worldbuilding/Places Areas/Harvington Ancestral Grave.md",
+    "05 Worldbuilding/Places Areas/Whiteshell Caverns.md",
+    "05 Worldbuilding/Places Areas/Vain Gardens of Uerna.md",
     "05 Worldbuilding/Villages Towns Cities/Chomoor Village Ruins.md",
     "06 Hexmap/Key.md",
-    "05 Worldbuilding/Places Areas/Vain Gardens of Uerna.md",
-    "05 Worldbuilding/Places Areas/Harvington Ancestral Grave.md",
     "Crumbling_Crypt_Arid_Gridless LQ.jpg",
     "Rocky_Desert_Ruins_Night_Gridless LQ.jpg",
     "06 Hexmap/Encounter Tables.md",
     "05 Worldbuilding/Factions/Harvington House.md",
     "Subdued_Forest_Graveyard_Night_Gridless LQ.jpg",
     "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
-    "05 Worldbuilding/Places Areas/Whiteshell Caverns.md",
     "GL_WonderfulWizardWaterfall_Sky LQ.jpg",
     "GL_WonderfulWizardWaterfall_Basement LQ.jpg",
     "GL_WonderfulWizardWaterfall_ThirdFloor_Day LQ.jpg",
     "GL_WonderfulWizardWaterfall_SecondFloor_Day LQ.jpg",
     "GL_WonderfulWizardWaterfall_FirstFloor_Day LQ.jpg",
-    "05 Worldbuilding/Places Areas/Shingleberry Circle.md",
     "05 Worldbuilding/Location Keys/Seal of the Deep.md",
     "Fey_Shrine_Night_Gridless LQ.jpg",
     "GL_CoralThrone_DeepSea LQ.jpg",
