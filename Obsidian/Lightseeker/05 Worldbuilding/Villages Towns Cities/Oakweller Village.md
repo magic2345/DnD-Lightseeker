@@ -1,5 +1,6 @@
 [[Key|Coordinates: -3.-1]]
 Located in [[Garmund Forest]].
+#Key 
 
 - Population 560, primarily elfs, some satyr.
 - The village is built around the statue of a chimera.

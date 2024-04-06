@@ -1,4 +1,5 @@
 [[Key|Coordinates: 1,-1]]
+#Key
 
 - Deep inside [[Horcian Mountain]] lies a giant limestone statue sitting on a throne of corals.
 - A hymn sung in Aquan, about the exiled queen of the deep, Tianna.

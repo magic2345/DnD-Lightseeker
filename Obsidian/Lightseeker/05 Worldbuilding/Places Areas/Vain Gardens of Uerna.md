@@ -1,4 +1,5 @@
 [[Key|Coordinates: 1,3]]
+#Key
 
 - Ruins of a shrine dedicated to an ancient goddess of sun and luck, now partly buried underground.
 - Now, a lamia makes its lair here, where she keeps prisoners to entertain itself.
@@ -12,9 +13,10 @@
 - Lamias love collecting beautiful objects, especially gems.
 
 Possible Enemies:
-- CR1/2 Jackalwere, minions of Uerna. Originally canines.
-- CR2 Ankheg, Azul, Uerna's pet. Often feeds on the prisoners.
-- CR4 Lamia, Uerna, once a high priest, blessed to become what she is now. She has been driven insane by the lack of connection to her goddess.
+- CR0 [[Jackal]].
+- CR1/2 [[Jackalwere]], minions of Uerna. Originally canines.
+- CR2 [[Ankheg]], Azul, Uerna's pet. Often feeds on the prisoners.
+- CR4 [[Lamia]], Uerna, once a high priest, blessed to become what she is now. She has been driven insane by the lack of connection to her goddess.
 ##### Map
 ![[Rocky_Desert_Ruins_Night_Gridless LQ.jpg]]
 

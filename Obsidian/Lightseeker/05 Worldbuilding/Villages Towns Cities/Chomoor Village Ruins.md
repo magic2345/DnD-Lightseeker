@@ -1,5 +1,6 @@
 [[Key|Coordinates: 2,3]]
 Located in [[Garmund Forest]].
+#Key
 
 - Razed by Rhalgar's Fang.
 - Crumbling stone wall.

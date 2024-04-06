@@ -1,5 +1,6 @@
 [[Key|Coordinates: 0,0]]
 Located in [[Garmund Forest]].
+#Key
 
 - Population 1100, mostly dwarf, some human.
 - Most of the town is delved into the sides of [[Lunathan Mountain]].

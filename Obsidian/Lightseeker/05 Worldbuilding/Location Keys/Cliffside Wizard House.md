@@ -1,4 +1,5 @@
 [[Key|Coordinates: 0,-1]]
+#Key
 
 - A lone house on the side of a cliff. Smoke rising from its chimney. A small garden and stable.
 - Talking door that tells visitors whether the master is home or not.

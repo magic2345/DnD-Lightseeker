@@ -1,5 +1,6 @@
 [[Key|Coordinates: 2.-5]]
 Located in [[Garmund Forest]].
+#Key
 
 - Population 250, mixed human and elf.
 - The village is encircled by a crumbling stone wall.

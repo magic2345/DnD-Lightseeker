@@ -1,5 +1,6 @@
-[[Key|Coordinates: -3,-6]]
+[[Key|Coordinates: -3,6]]
 Located in [[Garmund Forest]].
+#Key
 
 - Population 880, mostly human, some minotaur.
 - The village is built around a great willow tree.
