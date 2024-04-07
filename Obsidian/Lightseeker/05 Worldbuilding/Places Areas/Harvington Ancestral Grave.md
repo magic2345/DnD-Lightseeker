@@ -6,6 +6,7 @@
 - The wraith of Varyan Harvington made its lair here. A war general of the [[Harvington House]] tasked to protect the northeastern border of [[Vanblume]].
 - The truth is that Varyan deserted the army for riches and personal gain. He and his family were then executed through various torture methods.
 - As a wraith, he commands specters of the Harvington House members to raid nearby areas for silver and gold.
+- Deep inside the crypt is Varyan's treasure hoard.
 
 Possible Enemies:
 - CR1/2 [[Warhorse Skeleton]], used to be a part of the Harvington knights.

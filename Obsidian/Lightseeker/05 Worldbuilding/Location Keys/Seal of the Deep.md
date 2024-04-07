@@ -1,7 +1,7 @@
 [[Key|Coordinates: 1,-1]]
 #Key
 
-- Deep inside [[Horcian Mountain]] lies a giant limestone statue sitting on a throne of corals.
+- Deep inside [[Lunathan Mountain]] lies a giant limestone statue sitting on a throne of corals.
 - A hymn sung in Aquan, about the exiled queen of the deep, Tianna.
 - "Sealed and chained, Three wounds, Three blades."
 - Tianna holds a heart in her hand. It has three wounds, two of which has a [[Wisterian Dagger|dagger]] stabbed into it.
