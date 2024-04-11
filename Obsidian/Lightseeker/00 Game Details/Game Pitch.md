@@ -18,7 +18,7 @@
 
 ### Who are you?
 Whoever you are in the past, several things are true now.
-- **At the Edge.** You are on your last legs. You have nowhere else to go. Circumstances have forced you to become Hunters, those who embrace corruption to go out into the wilderness and hunt. Hunters are respected, feared, and ostracized.
+- **Hanging on a Cliff.** You are on your last legs. You have nowhere else to go. Circumstances have forced you to become Hunters, those who embrace corruption to go out into the wilderness and hunt. Hunters are respected, feared, and ostracized.
 - **Patron.** Andurin Cragscliff, an old veteran hunter, has inducted you into the fold. The grey-haired dwarf styles himself as a historian of sorts, searching for the mist's origins. What is your relationship with him? Who is he to you?
 - **Dim Light.** You live in Maplemoor, a small town surrounded by forests. Who were you before becoming a hunter? Did you live a decent life or were you starving on the streets since you could remember? How did your life crumble? Are there any pieces left?
 - **Flicker of the Past.** An event in your past has etched itself into your psyche. A trauma. What was the traumatic event? How did it help shape your worldview?
@@ -40,10 +40,23 @@ Whoever you are in the past, several things are true now.
 - **Band of Misfits.** You are a member of a newly-founded hunter clan. You don't know each other very well yet. Or... perhaps you do? A member has piqued your interest, for better or worse. Who is it and why?
 
 ### Setting Notes
+##### Pertaining to Hunters
 1. **Altered Body.** Hunters are those who have chosen to embrace corruption and drink a sinister concoction made of mutated ingredients. Their initial skills and experiences are obtained from others, not through their own efforts.
-2. **Guildsmen.** Maplemoor is a town that is governed by a consortium of guildmasters. The food grown and livestock reared in the town has less contamination than usual. 
-3. **Safe Rations.** After eating safe rations during a rest that lasts more than 6 hours (does not have to be a long rest), you gain 2d4+CON temporary hit points. These temporary hit points do not stack and only lasts for a day.
-4. **Contamination.** Rations foraged from the wilderness are contaminated. They do not grant any temporary hit points.
+2. **Links of Blood.** Hunters are inducted in a group, their fates tied together as they form a clan. Members of a clan are able to resist corruption when they are close to each other. Some clans even develop powerful synergistic skills as they become more powerful.
+3. **Dying Lone Wolf.** Hunters who are the last of their clan essentially lost a part of their souls. They become prone to madness and insanity. Following the hunter tradition, these hunters seek out others to continue the lineage, transferring their knowledge and mentoring a new clan.
+4. **Crazed Monstrosities.** Hunters who have lost their minds to the corruption often become an empty husk. Yet, sometimes, they become monstrosities, sources of madness who aimlessly roam the lands. Due to this, those in the know would often kill off all members of a hunter clan, or leave at least two alive.
+5. **People's Perception.** Some revere hunters as saviors. Others are wary of them and their power.
+
+##### Pertaining to the Town of Maplemoor
+1. **Guildsmen.** Maplemoor is a town that is governed by a consortium of guildmasters. The food grown and livestock reared in the town has less contamination than usual. It is unclear why.
+2. **Treated as Mercenaries.** Hunters in the town are treated as mercenaries that will do any job for coin. Individual perceptions may vary.
+3. ****
+
+##### Pertaining to the World
+1. **Sources of Life.** Villages and towns form around sources of safe food and water.
+2. **Safe Rations.** After eating safe rations during a rest that lasts more than 6 hours (does not have to be a long rest), you gain 2d4+CON temporary hit points. These temporary hit points do not stack and only lasts for a day.
+3. **Contamination.** Rations foraged from the wilderness are very likely contaminated. They do not grant any temporary hit points. A hunter's body is able to somewhat resist contamination.
+	- If a non-hunter consumes contaminated rations, they must make a DC10 (+each day consuming contaminated rations) CON saving throw, or take 2 stacks of exhaustion.
 
 ### Homebrew Houserules
 #### 1. Gritty Rest

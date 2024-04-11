@@ -9,5 +9,10 @@
 | 6   | The destruction of Chomoor Village.                                                          |
 | 7   | Screams from a ruined temple in the dead woods to the south.                                 |
 | 8   | The son of Maplemoor's leader has gone adventuring to the north a month ago and disappeared. |
-| 9   |                                                                                              |
-| 10  |                                                                                              |
+| 9   | Human-like roars from the forests north of Cairn Lake.                                       |
+| 10  | The red light to the northwest is what's left of a dead god.                                 |
+| 11  |                                                                                              |
+| 12  |                                                                                              |
+| 13  |                                                                                              |
+| 14  |                                                                                              |
+| 15  |                                                                                              |

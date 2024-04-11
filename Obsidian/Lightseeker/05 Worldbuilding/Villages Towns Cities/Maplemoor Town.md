@@ -3,7 +3,7 @@ Located in [[Garmund Forest]].
 #Key
 
 - Population 1100, mostly dwarf, some human.
-- Most of the town is delved into the sides of [[Lunathan Mountain]].
+- Most of the town is delved into the sides of [[Lunatine Mountain]].
 - It is governed by a consortium of guildmasters, led by a male dwarf named Antenon.
 - Many of its residents wear silver masks, a local fashion.
 - Near the [[Alvsky River]].
