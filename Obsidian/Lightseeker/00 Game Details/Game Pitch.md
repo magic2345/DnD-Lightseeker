@@ -45,26 +45,28 @@ Whoever you are in the past, several things are true now.
 2. **Links of Blood.** Hunters are inducted in a group, their fates tied together as they form a clan. Members of a clan are able to resist corruption when they are close to each other. Some clans even develop powerful synergistic skills as they become more powerful.
 3. **Dying Lone Wolf.** Hunters who are the last of their clan essentially lost a part of their souls. They become prone to madness and insanity. Following the hunter tradition, these hunters seek out others to continue the lineage, transferring their knowledge and mentoring a new clan.
 4. **Crazed Monstrosities.** Hunters who have lost their minds to the corruption often become an empty husk. Yet, sometimes, they become monstrosities, sources of madness who aimlessly roam the lands. Due to this, those in the know would often kill off all members of a hunter clan, or leave at least two alive.
-5. **People's Perception.** Some revere hunters as saviors. Others are wary of them and their power.
+5. **People's Perception.** Some revere hunters as saviors. Others are wary of them and their power. There are also those that pity hunters and their fate.
 
 ##### Pertaining to the Town of Maplemoor
 1. **Guildsmen.** Maplemoor is a town that is governed by a consortium of guildmasters. The food grown and livestock reared in the town has less contamination than usual. It is unclear why.
 2. **Treated as Mercenaries.** Hunters in the town are treated as mercenaries that will do any job for coin. Individual perceptions may vary.
-3. ****
+3. **Ambitious Leader.** Antenon, the dwarven leader of Maplemoor, has great ambitions for the town. He aims to attract many more people into the town and increase its size, thereby widening its influence.
 
 ##### Pertaining to the World
 1. **Sources of Life.** Villages and towns form around sources of safe food and water.
 2. **Safe Rations.** After eating safe rations during a rest that lasts more than 6 hours (does not have to be a long rest), you gain 2d4+CON temporary hit points. These temporary hit points do not stack and only lasts for a day.
 3. **Contamination.** Rations foraged from the wilderness are very likely contaminated. They do not grant any temporary hit points. A hunter's body is able to somewhat resist contamination.
 	- If a non-hunter consumes contaminated rations, they must make a DC10 (+each day consuming contaminated rations) CON saving throw, or take 2 stacks of exhaustion.
+4. **Precious Knowledge.** The people's average level of knowledge is low. There are many that cannot read or write. Technology has regressed a few hundred years.
+5. **Isolated Communities.** Most villages and towns are isolated from each other. Only those brave, powerful, or reckless enough are able to journey through the corrupted wilderness.
 
 ### Homebrew Houserules
-#### 1. Gritty Rest
+#### 1. Gritty Rest (by House DM)
 - **Short Rest** require at least **30 minutes**
 	- During the rest, PCs may spend any number of hit dice to regain hit points.
 	- If a fire was made and each PC slept for at least 6 hours, they may each roll a d6. On a 6, that PC regains hit points equal to 1+CON mod. 
 - **Long Rest** require at least **8 hours** in a safe place designated by the GM, typically lodging at a tavern or at a base camp.
-	- Camping in the wilderness or off the side of the road is not sufficient.
+	- Camping in the wilderness or off the side of the road without a base camp is not sufficient.
 	- At least 6 of those hours must be spent sleeping.
 	- After the rest, the PCs regain hit points equal to their **max Hit Die + CON**.
 	- They regain a number of Hit Dice equal to their proficiency bonus.
@@ -73,7 +75,7 @@ Whoever you are in the past, several things are true now.
 
 | Lodging Quality | Cost/PC | Benefit                                          |
 | --------------- | ------- | ------------------------------------------------ |
-| Poor            | 1sp     | Long Rest + Chance of complication (1 in 6)      |
+| Poor/Dirty      | 1sp     | Long Rest + Chance of complication (1 in 6)      |
 | Modest          | 1gp     | Long Rest                                        |
 | Comfortable     | 10 gp   | Long Rest + Regain All Hit Die                   |
 | Exquisite       | -       | Long Rest + Regain All Hit Dice & All Hit Points |
@@ -110,6 +112,8 @@ Whoever you are in the past, several things are true now.
 
 #### 3. Blood, Sweat, and Tears
 - When rolling a d20 for attack rolls, saving throws, or ability checks, a player may spend their Hit Points to increase the result of the roll.
+- Players cannot change a roll into a critical by doing this.
+- Players cannot escape the effects of a critical 1 (fumble) by doing this.
 
 #### 4. Sturdy Physique
 - Due to embracing the corruption, your bodies are physically fit. When counting HP during a level up, do not take average or roll. Your HP goes up by:
@@ -129,7 +133,7 @@ Whoever you are in the past, several things are true now.
    A guiding bolt spell with 4d6 damage will deal ```24 + 4d6``` damage.
 
 #### 7. Dread
-- Some special abilities, circumstances, and events can lead to a special condition called dread. It is measured in seven levels, each more debilitative than the last.
+- **Dread.** Some special abilities, circumstances, and events can lead to a special condition called dread. It is measured in seven levels, each more debilitative than the last.
 - **Dread Resistance.** Class features and traits that grant immunity to the frightened condition instead grant dread resistance.
 - **Frightened.** Spells and other magical effects that would cause the frightened condition instead cause 3 levels of dread.
 - **Removing Frightened.** An effect that removes the frightened condition removes 3 levels of dread unless it specifies otherwise, and other spells or effects that soothe emotions or reassure their beneficiaries might reduce dread as well.
@@ -148,7 +152,6 @@ Whoever you are in the past, several things are true now.
 ##### Dread, Continued
 - **Lasting Dread.** When an effect that causes dread ends, the dread it caused might not end immediately. Instead, the dread levels of all creatures affected by that source decrease by one level.
 	- The reduced dread’s duration reverts to the longest among all the sources of dread currently applying to the creature, remaining at its new level of dread for the full duration before decreasing again.
-- **Risking Insanity**. Dread of level 4 or higher can drive the character insane as described in Insanity addition to its usual effects. This insanity is its own condition and its duration normally outlasts the dread.
 - **Dread and the Frightened Condition**. Nonmagical effects that cause the frightened condition (such as a dragon’s Frightful Presence) don’t necessarily cause dread. A creature can be frightened and experiencing dread at the same time without those conditions interacting with each other.
 - **Disturbing Discovery.** When a character makes a shocking discovery about the world, realizes that their actions have had horrific results, or is otherwise mentally stressed or traumatized by some terrible revelation, there is a chance that the character experiences dread.
 	- **Minor Disturbing Discovery**. A minor disturbing discovery (such as learning that the citizens of the strange town you’re visiting are in fact cannibals, or that the lonely traveler you invited into your home is in fact a vampire) causes one level of dread unless the character succeeds at a DC 10 Wisdom saving throw. The dread decreases after 1 hour.
@@ -161,7 +164,7 @@ Whoever you are in the past, several things are true now.
 - **Dread Born From Others.** A dread effect caused by supernatural influence lasts as long as the associated insanity or frightened condition would normally last before decreasing.
 
 #### 8. Insanity
-- A long-term condition that has specific effects on a character and their abilities. 
+- **Insanity.** A long-term condition that has specific effects on a character and their abilities. 
 	- Insanity does not in and of itself cause or worsen dread. Rather, insanity functions similar to a disease: it afflicts a character with a specific disadvantage that remains until the insanity is cured or the character recovers from it.
 - **Insanity Strength**. All insanities have a save DC that represents its strength.
 	- This save DC is equal to the save DC of the source of the insanity.
@@ -179,7 +182,6 @@ Whoever you are in the past, several things are true now.
    - **Spells.** Greater restoration cures one insanity afflicting a creature.
 	   - If a target creature has multiple insanities, the spell only affects the insanity with the lowest DC (chosen by the caster among identified insanities in the case of a tie, or randomly if one isn’t specified).
    - **Sources of Insanity.**
-	   - **Overwhelming Dread.** Whenever a character reaches dread level 4 or a higher dread level, that character must make a special Wisdom saving throw against the dread’s save DC. On a failure, the character gains an insanity related to the source of dread.
 	   - **Catastrophic Mental Trauma.** When a character suffers a reduction of Intelligence, Wisdom, or Charisma, they must succeed on a Wisdom saving throw or gain an insanity related to the cause of the ability score reduction. The DC is equal to 10 + the value of the reduction. If a character’s Intelligence, Wisdom, or Charisma score is reduced to 1 or lower, that character automatically develops such an insanity.
 	   - **Confusion Effects.** When a character is affected by a confusion spell or another spell or magical effect that causes the character’s actions to be determined randomly, roll d%. On a result less than or equal to the save DC of the spell or effect, the character gains an insanity that persists after the spell or effect ends.
 
@@ -282,6 +284,7 @@ Whoever you are in the past, several things are true now.
 - A positive Int modifier allows you to choose more languages, tool proficiencies, instrument proficiencies, or vehicle proficiencies.
 
 #### 11. Flanking Bonuses
+- Characters count as flanking if they are on the opposite sides of the same enemy.
 - Flanking gives +2 to attack rolls.
 - Only creatures within 5 ft can flank.
 
@@ -290,11 +293,14 @@ Whoever you are in the past, several things are true now.
 - This includes various types of arrows and their usage.
 
 #### 13. Talents (by Dragonix)
-- Talents are similar to feats. More info during Session 0.
+- Talents are essentially minor feats that the player can get at certain levels, separate from feats.. More info during Session 0.
 
 #### 14. Monster Carving/Loot (by Drifters Game Workshop)
 - Adds mechanics to appraise and harvest monsters/enemies for loot. Some loot may be used as materials to craft magic items.
 
 #### 15. Alchemy/Herbalism (by Heavyarms)
 - Adds mechanics to forage various plants and concoct potions.
-- If there is a monster part list use the one on number 15. 
+- If there is a monster part list, use the rules on number 14.
+
+#### 16. Hexcrawl (heavily based on the Alexandrian rules)
+- The hexcrawl rules we'll be using is heavily based on the Alexandrian.
