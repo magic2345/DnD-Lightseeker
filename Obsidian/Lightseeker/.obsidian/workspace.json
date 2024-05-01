@@ -22,18 +22,6 @@
             "group": "95e65b87d141cca8"
           },
           {
-            "id": "41615eb2633cb25f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 Hexmap/Encounter Tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3775e6916cfc868f",
             "type": "leaf",
             "state": {
@@ -51,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Worldbuilding/Factions/Harvington House.md",
+                "file": "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "19e127e408da9221",
@@ -148,9 +136,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f2236ed693dc2794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Characters/01 Maplemoor and Surroundings/Erasmus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47d2985a3ba3f88a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Characters/01 Maplemoor and Surroundings/Campy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -216,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Worldbuilding/Places Areas/Immindell's Lab.md",
+                "file": "01 Characters/01 Maplemoor and Surroundings/Erasmus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 Worldbuilding/Places Areas/Immindell's Lab.md",
+                "file": "01 Characters/01 Maplemoor and Surroundings/Erasmus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Worldbuilding/Places Areas/Immindell's Lab.md"
+                "file": "01 Characters/01 Maplemoor and Surroundings/Erasmus.md"
               }
             }
           }
@@ -277,36 +289,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc00abf9be01f34a",
+  "active": "f2236ed693dc2794",
   "lastOpenFiles": [
-    "06 Hexmap/Key.md",
-    "06 Hexmap/Encounter Tables.md",
-    "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
-    "05 Worldbuilding/Hills Mountains/Lunatine Mountain.md",
-    "00 Game Details/Game Pitch.md",
-    "05 Worldbuilding/Factions/Harvington House.md",
-    "05 Worldbuilding/Places Areas/Alexander's Fountain.md",
-    "05 Worldbuilding/Eldritch/Marielle.md",
-    "06 Hexmap/Rumor Table.md",
-    "05 Worldbuilding/Places Areas/Harvington Ancestral Grave.md",
+    "01 Characters/01 Maplemoor and Surroundings/Campy.md",
+    "01 Characters/01 Maplemoor and Surroundings/Erasmus.md",
+    "05 Worldbuilding/Eldritch/Tharract.md",
     "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
+    "05 Worldbuilding/Places Areas/Grey Sanctuary.md",
+    "00 Game Details/Game Pitch.md",
+    "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
+    "05 Worldbuilding/Places Areas/Immindell's Lab.md",
+    "05 Worldbuilding/Eldritch/Marielle.md",
+    "06 Hexmap/Key.md",
+    "05 Worldbuilding/Planes/Emberblight.md",
+    "05 Worldbuilding/Divine/Agni.md",
+    "05 Worldbuilding/Divine/Minareth.md",
+    "05 Worldbuilding/Divine/Rhalgar.md",
+    "05 Worldbuilding/Planes",
+    "01 Characters/02 Wrath Hills and Surroundings",
+    "01 Characters/01 Maplemoor and Surroundings",
+    "05 Worldbuilding/Factions/Harvington House.md",
+    "06 Hexmap/Rumor Table.md",
+    "06 Hexmap/Encounter Tables.md",
+    "05 Worldbuilding/Hills Mountains/Lunatine Mountain.md",
+    "05 Worldbuilding/Places Areas/Alexander's Fountain.md",
+    "05 Worldbuilding/Places Areas/Harvington Ancestral Grave.md",
     "05 Worldbuilding/Magic Items/Wisterian Dagger.md",
     "05 Worldbuilding/Places Areas/Vain Gardens of Uerna.md",
     "05 Worldbuilding/Places Areas/Whiteshell Caverns.md",
     "05 Worldbuilding/Places Areas/Shingleberry Circle.md",
-    "05 Worldbuilding/Places Areas/Immindell's Lab.md",
     "Untitled.canvas",
     "05 Worldbuilding/Hills Mountains/Wrath Highlands.md",
     "05 Worldbuilding/Hills Mountains/Horcian Mountain.md",
-    "05 Worldbuilding/Regions/Garmund Forest.md",
-    "05 Worldbuilding/Rivers Lakes Ponds/Alvsky River.md",
-    "05 Worldbuilding/Rivers Lakes Ponds/Cairn Lake.md",
-    "05 Worldbuilding/Villages Towns Cities/Oakweller Village.md",
-    "05 Worldbuilding/Villages Towns Cities/Dona Village.md",
-    "05 Worldbuilding/Rivers Lakes Ponds/Greenwood Wellspring.md",
     "05 Worldbuilding/Eldritch",
-    "05 Worldbuilding/Factions/Xandrine Palace.md",
-    "05 Worldbuilding/Villages Towns Cities/Nisa Village.md",
     "Attachments/Lamia Token.png",
     "Attachments/Ankheg Token.png",
     "Attachments/Jackal Token.png",
@@ -322,9 +337,6 @@
     "05 Worldbuilding/Creatures/Monstrosity",
     "05 Worldbuilding/Creatures/Beast",
     "05 Worldbuilding/Creatures/Aberration",
-    "05 Worldbuilding/Creatures/Fae",
-    "05 Worldbuilding/Creatures",
-    "05 Worldbuilding/Magic Items",
-    "Attachments"
+    "05 Worldbuilding/Creatures/Fae"
   ]
 }

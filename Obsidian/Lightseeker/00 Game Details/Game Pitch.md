@@ -29,7 +29,7 @@ Whoever you are in the past, several things are true now.
 	4. **Near-death**. Perhaps you've been trapped in a burning house or had almost drowned.
 	5. **Betrayal**. Someone you've trusted has betrayed you and ruined your life.
 	6. **Overwhelming Violence**. You have witnessed violence to its highest degree.
-- **Hunter Aura.** Each hunter has a unique aura that differentiates themselves from others. What is yours? What sensory information does your aura contain?
+- **Hunter Aura.** Each hunter has a unique aura that differentiates themselves from others. What is yours? What sensory information does your aura contain? Normally, only hunters can detect each other's auras.
   Below are some ideas:
 	  1. Smell of burnt skin.
 	  2. Cracks at the edges of the vision.
@@ -50,13 +50,13 @@ Whoever you are in the past, several things are true now.
 ##### Pertaining to the Town of Maplemoor
 1. **Guildsmen.** Maplemoor is a town that is governed by a consortium of guildmasters. The food grown and livestock reared in the town has less contamination than usual. It is unclear why.
 2. **Treated as Mercenaries.** Hunters in the town are treated as mercenaries that will do any job for coin. Individual perceptions may vary.
-3. **Ambitious Leader.** Antenon, the dwarven leader of Maplemoor, has great ambitions for the town. He aims to attract many more people into the town and increase its size, thereby widening its influence.
+3. **Ambitious Leader.** Garadun, the dwarven leader of Maplemoor, has great ambitions for the town. He aims to attract many more people into the town and increase its size, thereby widening its influence.
 
 ##### Pertaining to the World
 1. **Sources of Life.** Villages and towns form around sources of safe food and water.
-2. **Safe Rations.** After eating safe rations during a rest that lasts more than 6 hours (does not have to be a long rest), you gain 2d4+CON temporary hit points. These temporary hit points do not stack and only lasts for a day.
+2. **Safe Rations.** After eating safe rations during a period of light activity that lasts more than 6 hours (does not have to be a long rest), you gain 2d4+CON temporary hit points. These temporary hit points do not stack and only lasts for a day.
 3. **Contamination.** Rations foraged from the wilderness are very likely contaminated. They do not grant any temporary hit points. A hunter's body is able to somewhat resist contamination.
-	- If a non-hunter consumes contaminated rations, they must make a DC10 (+each day consuming contaminated rations) CON saving throw, or take 2 stacks of exhaustion.
+	- If a non-hunter consumes contaminated rations, they must make a DC10 (+1 for each day consuming contaminated rations) CON saving throw, or take 2 stacks of exhaustion.
 4. **Precious Knowledge.** The people's average level of knowledge is low. There are many that cannot read or write. Technology has regressed a few hundred years.
 5. **Isolated Communities.** Most villages and towns are isolated from each other. Only those brave, powerful, or reckless enough are able to journey through the corrupted wilderness.
 

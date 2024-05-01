@@ -1,7 +1,7 @@
 
 | d10 | Rumor                                                                                        |
 | --- | -------------------------------------------------------------------------------------------- |
-| 1   | The traitorous Harvington family and their treasure hoard.                                   |
+| 1   | The traitorous [[Harvington House\|Harvington]] family and their treasure hoard.             |
 | 2   | The figure of an old man high up in the mountains, unsteadily walking.                       |
 | 3   | Small mice digging for pebbles.                                                              |
 | 4   | A lion-like creature with the face of a human and a mix of other beasts.                     |
