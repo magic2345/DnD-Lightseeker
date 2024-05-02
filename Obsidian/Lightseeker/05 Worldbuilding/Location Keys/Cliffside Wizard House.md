@@ -9,7 +9,7 @@
 - Wields the domain of Curiosity.
 
 Hooks:
-- The sound of loud horns can be heard if you try listening carefully.
+- The sound of a loud brass horn can be heard if you try listening carefully.
 - 
 ##### 1st Floor
 - A study with self cleaning books. The fire here is called [[Campy]], a denizen of the [[Emberblight]] plane under the service of Erasmus.
@@ -19,17 +19,20 @@ Hooks:
 - A storeroom filled with various house equipment and preserved food.
 
 ##### 2nd Floor
-- A bedroom with a king-sized bed. Only one side of it is often used. There is a picture of a couple; an old man with an unkempt beard and a smiling old woman.
+- **Bedroom.** A bedroom with a king-sized bed. Only one side of it is often used. There is a picture of a couple; an old man with an unkempt beard and a smiling old woman.
 	Below it, there is scribbling on the picture:
 	"*May the moon goddess bless us for eternity.*"
 	"*-Helen*"
 - A desk with various papers detailing the various planes. There's also a ceramic ocarina that produces various birdcalls when played.
-- A room with a half-finished magic circle.
+- **** A room with a half-finished magic circle. It seems to be of a portal to another plane.
+	- DC10 Wisdom Saving Throw or gain 2 levels of dread for 1 minute. Gain knowledge of a specific rune that means "Emberblight".
 - A small workshop for wooden cane-related work.
 
 ##### 3rd Floor
-- A cozy space where an invisible person is flipping through books.
+- **Invisible Person.** A cozy space where an invisible person is flipping through books.
 	- The person is cursed and trying to find a way to become visible again.
+- **Poetic Horn.** Huge brass horn next to the window. On the wall, there is a piece of paper. Any -B-B poems written on the paper will be sent somewhere in the form of music notes.
+	- "*Roses are red. Flowers are blue.*"
 
 ##### Basement
 - The preserved fossil of a blue dragon.

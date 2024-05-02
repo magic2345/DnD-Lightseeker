@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Characters/01 Maplemoor and Surroundings/Erasmus.md",
+                "file": "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Characters/01 Maplemoor and Surroundings/Erasmus.md",
+                "file": "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Characters/01 Maplemoor and Surroundings/Erasmus.md"
+                "file": "05 Worldbuilding/Location Keys/Cliffside Wizard House.md"
               }
             }
           }
@@ -289,14 +289,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2236ed693dc2794",
+  "active": "4096f6f8089ab6a7",
   "lastOpenFiles": [
-    "01 Characters/01 Maplemoor and Surroundings/Campy.md",
-    "01 Characters/01 Maplemoor and Surroundings/Erasmus.md",
-    "05 Worldbuilding/Eldritch/Tharract.md",
-    "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
-    "05 Worldbuilding/Places Areas/Grey Sanctuary.md",
     "00 Game Details/Game Pitch.md",
+    "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
+    "06 Hexmap/Rumor Table.md",
+    "01 Characters/01 Maplemoor and Surroundings/Erasmus.md",
+    "01 Characters/01 Maplemoor and Surroundings/Campy.md",
+    "05 Worldbuilding/Eldritch/Tharract.md",
+    "05 Worldbuilding/Places Areas/Grey Sanctuary.md",
     "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
     "05 Worldbuilding/Places Areas/Immindell's Lab.md",
     "05 Worldbuilding/Eldritch/Marielle.md",
@@ -309,7 +310,6 @@
     "01 Characters/02 Wrath Hills and Surroundings",
     "01 Characters/01 Maplemoor and Surroundings",
     "05 Worldbuilding/Factions/Harvington House.md",
-    "06 Hexmap/Rumor Table.md",
     "06 Hexmap/Encounter Tables.md",
     "05 Worldbuilding/Hills Mountains/Lunatine Mountain.md",
     "05 Worldbuilding/Places Areas/Alexander's Fountain.md",
