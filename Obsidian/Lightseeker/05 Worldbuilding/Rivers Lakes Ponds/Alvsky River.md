@@ -1,3 +1,3 @@
 #EnvironmentalFeature
 
-Originated from [[Horcian Mountain]].
+Originated from [[Horcian Mountain Range]].

@@ -9,12 +9,12 @@
 - Wields the domain of Curiosity.
 
 Hooks:
-- The sound of a loud brass horn can be heard if you try listening carefully.
+- **Loud Horns.** The sound of a loud brass horn can be heard if you try listening carefully.
 - 
 ##### 1st Floor
 - A study with self cleaning books. The fire here is called [[Campy]], a denizen of the [[Emberblight]] plane under the service of Erasmus.
 	- **Clue.** A letter addressed to 'Braunfort'. In it, the owner of the house, Erasmus, tells him that he has found a lead to Shadowfell, and will be investigating it soon. The location is also transcribed.
-		To the Northeast, among the dead trees. A well with overflowing pitch black darkness.
+		*To the Northeast, among the dead trees. A well overflowing with pitch black darkness.*
 - A kitchen enchanted with a food preservation spell. All the food here is safe, no contamination at all.
 - A storeroom filled with various house equipment and preserved food.
 

@@ -1,3 +1,0 @@
-#EnvironmentalFeature
-
-Large mountain.
