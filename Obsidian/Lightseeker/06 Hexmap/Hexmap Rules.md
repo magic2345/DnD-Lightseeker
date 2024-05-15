@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/g96yjzz3#ZiHd7UM/u2eUb+C+rd+QC5wSs1RmD+xDr+1TfaGDu2g
+share_updated: 2024-05-14T23:20:22+07:00
+---
 ![[Pasted image 20240404054421.png]]
 Each hex = 6 miles from the center to the edge.
 1 Day = 6 Watches
@@ -144,7 +148,7 @@ A character can scout during a watch in which an expedition is traveling only if
 
 
 ###### 10. Make Camp
-- A character can establish a camp suitable for 4 creatures if they have tents or similar equipment to shelter them. (Horses and similar creatures do not require tents, but must still be accounted for in camp preparations.)
+- A character can establish a camp suitable for 5 creatures if they have tents or similar equipment to shelter them. (Horses and similar creatures do not require tents, but must still be accounted for in camp preparations.)
 - If the expedition does not have equipment for shelter, the character can only establish a camp suitable for one creature (either themselves or someone else) per watch action.
 - **Favorable Site.** A character can perform an active watch action to make an Intelligence (Nature) or Wisdom (Survival) check against the Forage DC of the terrain.
 	- On a success, they have identified a favorable campsite. Characters performing the Forager action in a favorable campsite gain advantage on their forage checks.

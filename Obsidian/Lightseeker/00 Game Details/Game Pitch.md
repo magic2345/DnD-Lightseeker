@@ -1,26 +1,29 @@
+---
+share_link: https://share.note.sx/4xl5kj8q#hZ/oswcxbhQTf+OMTCxj2hc1+ZvsgE5UH3+KAnrR7uI
+share_updated: 2024-05-14T08:00:13+07:00
+---
 **“Live. Survive. Escape the mist. Find the truth. Seek the light.”**
 
 ### The Setting's Six Truths
-1. Strange mist has covered the kingdom of Vanblume for the last 80 years, blocking out most of the sun.
+1. Strange mist has covered the kingdom of Vanblume for the last ??? years, blocking out most of the sun.
 2. The land is blighted, the waters poisoned. It is rare to find safe food or drink.
 3. Living beings mutate and adapt to the surroundings, often creating terrifying ghastly horrors.
 4. Any semblance of civilization is few and far between.
 5. Only the church is able to somewhat purify the contaminants. Even then, not many are gifted in the divine.
-6. Insanity is rampant within the people. Hold yourself back and control it, lest it control you.
-
+6. Insanity and madness are rampant within the people. Hold yourself back and control it, lest it control you.
 ### Main Conflicts and Themes
 - Loss of humanity.
 - Mutation and corruption.
 - Survival and horror.
+- Adapt or die.
 - Sins of the past.
 - Trust and control.
 - Finding hope in the depths of despair.
-
 ### Who are you?
 Whoever you are in the past, several things are true now.
-- **Hanging on a Cliff.** You are on your last legs. You have nowhere else to go. Circumstances have forced you to become Hunters, those who embrace corruption to go out into the wilderness and hunt. Hunters are respected, feared, and ostracized.
+- **Hanging on a Cliff.** You are on your last legs. You have nowhere else to go. Circumstances have forced you to become **Hunters**, those who embrace corruption to go out into the wilderness and hunt. Hunters are respected, feared, and ostracized.
 - **Patron.** Andurin Cragscliff, an old veteran hunter, has inducted you into the fold. The grey-haired dwarf styles himself as a historian of sorts, searching for the mist's origins. What is your relationship with him? Who is he to you?
-- **Dim Light.** You live in Maplemoor, a small town surrounded by forests. Who were you before becoming a hunter? Did you live a decent life or were you starving on the streets since you could remember? How did your life crumble? Are there any pieces left?
+- **Dim Light.** You live in Maplemoor, a town surrounded by forests. Who were you before becoming a hunter? Did you live a decent life or were you starving on the streets since you could remember? How did your life crumble? Are there any pieces left?
 - **Flicker of the Past.** An event in your past has etched itself into your psyche. A trauma. What was the traumatic event? How did it help shape your worldview?
   Below are some ideas: 
 	1. **Self-Blame**. The death or scarring of a loved one, which you believe to be your fault.
@@ -38,34 +41,30 @@ Whoever you are in the past, several things are true now.
 	  5. Whispers from behind.
 	  6. Heavy burden.
 - **Band of Misfits.** You are a member of a newly-founded hunter clan. You don't know each other very well yet. Or... perhaps you do? A member has piqued your interest, for better or worse. Who is it and why?
-
 ### Setting Notes
 ##### Pertaining to Hunters
 1. **Altered Body.** Hunters are those who have chosen to embrace corruption and drink a sinister concoction made of mutated ingredients. Their initial skills and experiences are obtained from others, not through their own efforts.
 2. **Links of Blood.** Hunters are inducted in a group, their fates tied together as they form a clan. Members of a clan are able to resist corruption when they are close to each other. Some clans even develop powerful synergistic skills as they become more powerful.
 3. **Dying Lone Wolf.** Hunters who are the last of their clan essentially lost a part of their souls. They become prone to madness and insanity. Following the hunter tradition, these hunters seek out others to continue the lineage, transferring their knowledge and mentoring a new clan.
-4. **Crazed Monstrosities.** Hunters who have lost their minds to the corruption often become an empty husk. Yet, sometimes, they become monstrosities, sources of madness who aimlessly roam the lands. Due to this, those in the know would often kill off all members of a hunter clan, or leave at least two alive.
+4. **Crazed Monstrosities.** Hunters who have lost their minds to the corruption often become an empty husk. Yet, sometimes, they become monstrosities, sources of madness who aimlessly roam the lands. Due to this, those in the know would often kill off all members of a hunter clan, or leave at least two alive, lest they turn.
 5. **People's Perception.** Some revere hunters as saviors. Others are wary of them and their power. There are also those that pity hunters and their fate.
-
 ##### Pertaining to the Town of Maplemoor
-1. **Guildsmen.** Maplemoor is a town that is governed by a consortium of guildmasters. The food grown and livestock reared in the town has less contamination than usual. It is unclear why.
+1. **Guildsmen.** Maplemoor is governed by a consortium of guildmasters. The food grown and livestock reared in the town has less contamination than usual. The people thank Minareth, goddess of livestock and fertility, for this blessing.
 2. **Treated as Mercenaries.** Hunters in the town are treated as mercenaries that will do any job for coin. Individual perceptions may vary.
 3. **Ambitious Leader.** Garadun, the dwarven leader of Maplemoor, has great ambitions for the town. He aims to attract many more people into the town and increase its size, thereby widening its influence.
-
 ##### Pertaining to the World
 1. **Sources of Life.** Villages and towns form around sources of safe food and water.
-2. **Safe Rations.** After eating safe rations during a period of light activity that lasts more than 6 hours (does not have to be a long rest), you gain 2d4+CON temporary hit points. These temporary hit points do not stack and only lasts for a day.
+2. **Safe Rations.** After eating safe rations during a period of light activity that lasts more than 6 hours (does not have to be a long rest), you gain 2d4+CON temporary hit points. These temporary hit points do not stack and only lasts for a day, usually until the break of dawn.
 3. **Contamination.** Rations foraged from the wilderness are very likely contaminated. They do not grant any temporary hit points. A hunter's body is able to somewhat resist contamination.
 	- If a non-hunter consumes contaminated rations, they must make a DC10 (+1 for each day consuming contaminated rations) CON saving throw, or take 2 stacks of exhaustion.
-4. **Precious Knowledge.** The people's average level of knowledge is low. There are many that cannot read or write. Technology has regressed a few hundred years.
+4. **Precious Knowledge.** The people's average level of knowledge is low. There are many that cannot read or write. Technology has regressed.
 5. **Isolated Communities.** Most villages and towns are isolated from each other. Only those brave, powerful, or reckless enough are able to journey through the corrupted wilderness.
-
 ### Homebrew Houserules
 #### 1. Gritty Rest (by House DM)
 - **Short Rest** require at least **30 minutes**
 	- During the rest, PCs may spend any number of hit dice to regain hit points.
 	- If a fire was made and each PC slept for at least 6 hours, they may each roll a d6. On a 6, that PC regains hit points equal to 1+CON mod. 
-- **Long Rest** require at least **8 hours** in a safe place designated by the GM, typically lodging at a tavern or at a base camp.
+- **Long Rest** require at least **8 hours** in a safe place designated by the DM, typically lodging at a tavern or at a base camp.
 	- Camping in the wilderness or off the side of the road without a base camp is not sufficient.
 	- At least 6 of those hours must be spent sleeping.
 	- After the rest, the PCs regain hit points equal to their **max Hit Die + CON**.
@@ -114,23 +113,23 @@ Whoever you are in the past, several things are true now.
 - When rolling a d20 for attack rolls, saving throws, or ability checks, a player may spend their Hit Points to increase the result of the roll.
 - Players cannot change a roll into a critical by doing this.
 - Players cannot escape the effects of a critical 1 (fumble) by doing this.
-
 #### 4. Sturdy Physique
 - Due to embracing the corruption, your bodies are physically fit. When counting HP during a level up, do not take average or roll. Your HP goes up by:
-	   MaxNumberOnHitDie + CON Mod
-
+	```MaxNumberOnHitDie + CON Mod```
+- Instant death does not apply to you. When you drop to 0 and take damage the same amount as your hit point maximum, you will get a failed Death Save instead of outright dying.
+	- Note. Enemy Hunters will also always fall unconscious and roll death saving throws instead of outright dying.
 #### 5. Alternative Exhaustion Rules
    - Instead of the normal exhaustion rules, Players get a -1 penalty to any ability checks, saving throws, and attacks per 1 stack of exhaustion. They also get the same penalty to their Spell Save DC.
-   - When a player's penalty goes over -10, they die. They're not unconscious, they straight up die.
+   - When a player's penalty goes over -10, they die. They do not become unconscious, they straight up die.
    - Long Rest removes 1 stack of exhaustion.
-
 #### 6. Critical Damage Calculation
    Crits are calculated as follows:
-   ```MaxNumberOnDice + Roll Dice + Modifiers```
+	```MaxNumberOnDice + Roll Dice + Modifiers```
    Example:
-   A weapon attack with 2d6 damage will deal
-   ```12 + 2d6 + Mod``` damage.
-   A guiding bolt spell with 4d6 damage will deal ```24 + 4d6``` damage.
+   A weapon attack with 2d6 damage will deal:
+	```12 + 2d6 + Mod``` damage.
+   A guiding bolt spell with 4d6 damage will deal
+	```24 + 4d6``` damage.
 
 #### 7. Dread
 - **Dread.** Some special abilities, circumstances, and events can lead to a special condition called dread. It is measured in seven levels, each more debilitative than the last.
@@ -304,3 +303,14 @@ Whoever you are in the past, several things are true now.
 
 #### 16. Hexcrawl (heavily based on the Alexandrian rules)
 - The hexcrawl rules we'll be using is heavily based on the Alexandrian.
+#### 17. Death
+- New characters are the same level as the one that died.
+- Any extra Talent Points gained outside from leveling up are retained.
+#### 18. Leaving the Party
+- When you decide to retire your character for whatever reason, you may roll up a new character using the same rules as number 17. The retired character will become an NPC in the world.
+- If your retired character would go against the party, they will be treated as a villain.
+#### 19. Character Generation
+- Every ability score starts at 8.
+- Roll 7d6 until the result is at least 24.
+- Freely add the rolled numbers into any ability score until you run out of dice.
+- No ability score can go over 18. In addition, to get an 18, the rolled numbers must exactly reach 18.

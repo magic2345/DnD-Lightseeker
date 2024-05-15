@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Characters/01 Maplemoor and Surroundings/Helen.md",
+                "file": "01 Characters/01 Maplemoor and Surroundings/Andurin Cragscliff.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Characters/01 Maplemoor and Surroundings/Cyril.md",
+                "file": "00 Game Details/Game Pitch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,9 +95,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f433e6bac5c8343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Characters/02 Wrath Hills and Surroundings/Zrazur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "19e127e408da9221",
@@ -214,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -280,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Characters/01 Maplemoor and Surroundings/Garadun.md",
+                "file": "00 Game Details/Game Pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Characters/01 Maplemoor and Surroundings/Garadun.md",
+                "file": "00 Game Details/Game Pitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Characters/01 Maplemoor and Surroundings/Garadun.md"
+                "file": "00 Game Details/Game Pitch.md"
               }
             }
           }
@@ -341,34 +353,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68f3879db1807a69",
+  "active": "cfb663481b2e6286",
   "lastOpenFiles": [
+    "00 Game Details/Unused House Rules.md",
     "00 Game Details/Game Pitch.md",
-    "01 Characters/01 Maplemoor and Surroundings/Garadun.md",
-    "01 Characters/01 Maplemoor and Surroundings/Cyril.md",
+    "06 Hexmap/Hexmap Rules.md",
+    "06 Hexmap/Rumor Table.md",
+    "Small mice.md",
+    "01 Characters/01 Maplemoor and Surroundings/Andurin Cragscliff.md",
+    "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
+    "06 Hexmap/Key Possibilities.md",
     "06 Hexmap/Key.md",
+    "06 Hexmap/Factions.md",
+    "06 Hexmap/Encounters.md",
+    "06 Hexmap/Encounter Tables.md",
+    "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
     "01 Characters/02 Wrath Hills and Surroundings/Torian.md",
+    "01 Characters/02 Wrath Hills and Surroundings/Albis.md",
     "05 Worldbuilding/Villages Towns Cities/Nisa Village.md",
+    "01 Characters/Character Template.md",
+    "01 Characters/01 Maplemoor and Surroundings/Cyril.md",
+    "01 Characters/01 Maplemoor and Surroundings/Garadun.md",
+    "01 Characters/01 Maplemoor and Surroundings/Helen.md",
+    "01 Characters/02 Wrath Hills and Surroundings/Zrazur.md",
     "05 Worldbuilding/Places Areas/Alexander's Fountain.md",
     "01 Characters/01 Maplemoor and Surroundings/Campy.md",
-    "01 Characters/01 Maplemoor and Surroundings/Helen.md",
-    "01 Characters/Character Template.md",
     "05 Worldbuilding/Hills Mountains/Wrath Highlands.md",
-    "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
     "01 Characters/00 Historical Figures/Alphonse Lionheart.md",
     "01 Characters/00 Historical Figures/Silas Vanblume.md",
-    "05 Worldbuilding/Landmarks/Vanadis.md",
-    "05 Worldbuilding/Landmarks/Mausoleum of the First Emperor.md",
-    "05 Worldbuilding/Landmarks/Buried Stone Structure.md",
-    "05 Worldbuilding/Historical Events/The Great War.md",
-    "05 Worldbuilding/Historical Events/The First Emperor's Curse.md",
-    "05 Worldbuilding/Hills Mountains/Lunatine Mountain.md",
-    "05 Worldbuilding/Hills Mountains/Horcian Mountain Range.md",
-    "05 Worldbuilding/Rivers Lakes Ponds/Alvsky River.md",
-    "05 Worldbuilding/Factions/Xandrine Palace.md",
-    "05 Worldbuilding/Factions/Rhalgar's Fang.md",
-    "05 Worldbuilding/Factions/Harvington House.md",
-    "01 Characters/01 Maplemoor and Surroundings/Erasmus.md",
     "05 Worldbuilding/Planes",
     "01 Characters/02 Wrath Hills and Surroundings",
     "01 Characters/01 Maplemoor and Surroundings",
