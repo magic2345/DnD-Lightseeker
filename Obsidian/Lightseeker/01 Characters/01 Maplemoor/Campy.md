@@ -1,7 +1,7 @@
 Fire Elemental, 10 years old.
 
-A denizen of the [[Emberblight]] plane that was hired by Erasmus.
-Currently residing in Erasmus' fireplace.
+A denizen of the [[Emberblight]] plane that was hired by [[Erasmus]].
+Currently residing in [[Erasmus]]' fireplace.
 
 Physical Tick:
 - When excited or angry, Campy becomes bigger and hotter.

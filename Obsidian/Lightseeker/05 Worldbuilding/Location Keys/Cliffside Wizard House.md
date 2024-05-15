@@ -12,8 +12,8 @@ Hooks:
 - **Loud Horns.** The sound of a loud brass horn can be heard if you try listening carefully.
 - 
 ##### 1st Floor
-- A study with self cleaning books. The fire here is called [[Campy]], a denizen of the [[Emberblight]] plane under the service of Erasmus.
-	- **Clue.** A letter addressed to 'Braunfort'. In it, the owner of the house, Erasmus, tells him that he has found a lead to Shadowfell, and will be investigating it soon. The location is also transcribed.
+- A study with self cleaning books. The fire here is called [[Campy]], a denizen of the [[Emberblight]] plane under the service of [[Erasmus]].
+	- **Clue.** A letter addressed to 'Braunfort'. In it, the owner of the house, [[Erasmus]], tells him that he has found a lead to Shadowfell, and will be investigating it soon. The location is also transcribed.
 		*To the Northeast, among the dead trees. A well overflowing with pitch black darkness.*
 - A kitchen enchanted with a food preservation spell. All the food here is safe, no contamination at all.
 - A storeroom filled with various house equipment and preserved food.
@@ -48,9 +48,9 @@ Hooks:
 | 2-4   | Find 1d4 Potions of Healing.                                                                                                                |
 | 5-7   | Creatures within 10 ft need to make a DC13 Dex saving throw or be hit by a Transmogrifying Ray, turning into a small critter for 1d4 hours. |
 | 8-10  | Creatures in the room need to make a DC13 Wis saving throw or take 1 stack of dread. A terrifying roar resounds.                            |
-| 11-13 | You have disturbed 1d4 Mephits (depending on the room). They are Erasmus' servants and will ask you your intentions.                        |
+| 11-13 | You have disturbed 1d4 Mephits (depending on the room). They are [[Erasmus]]' servants and will ask you your intentions.                        |
 | 14-16 | Find 1d4 Potions of Poison.                                                                                                                 |
-| 17-20 | You have activated a telepathic mechanism, connecting you to Erasmus himself.                                                               |
+| 17-20 | You have activated a telepathic mechanism, connecting you to [[Erasmus]] himself.                                                               |
 
 ##### Map
 1st Floor

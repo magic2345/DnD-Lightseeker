@@ -15,5 +15,6 @@ Points of interests:
 - **Cleansing Aura.** The town has a special aura around it due to [[Helen]] and her crystal. It allows the crops and livestock grown there to be mostly uncontaminated.
 - **Trading Hub.** The town serves as a trading hub for the area. Many merchants from the surrounding villages come here to barter and make a living.
 - **Connected.** The town is connected to a few nearby villages by unmaintained roads.
-	- [[Nisa Village]]. North road, passing through the hills around Lunatine Mountain. Much of the metal tools in the town come from Nisa Village.
+	- [[Nisa Village]]. North road, passing through the hills around Lunatine Mountain. Much of the metal tools in the town come from [[Nisa Village]].
 	- [[Chomoor Village Ruins]]. South road. Most if not all of the horses in the town come from Chomoor Village.
+- **Mercenaries.** There are many hunter clans in the town. The most famous is the Serpentine Guard, a clan with the best track record for escort missions.
