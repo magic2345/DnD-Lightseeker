@@ -40,7 +40,21 @@ Border Encounter: 1 in 1d20
 | 6-8       | Neutral/Willing to Deal | Fair        | Polite             | Middling       |
 | 9-11      | Interested              | Helpful     | Friendly           | Pretty Good    |
 | 12+       | Friendly                | Generous    | Loyal/Best Friends | Best Possible  |
-
+##### Weather Table
+- Spring
+	![[Pasted image 20240516071507.png]]
+- Summer
+	![[Pasted image 20240516071534.png]]
+- Fall
+	![[Pasted image 20240516071552.png]]
+- Winter
+	![[Pasted image 20240516071613.png]]
+- Effects 1
+	![[Pasted image 20240516071941.png]]
+- Effects 2
+	![[Pasted image 20240516072009.png]]
+- Effects 3
+	![[Pasted image 20240516072036.png]]
 ##### Around Horcian Mountain
 
 | d20   | Encounter                                      | Tracks | Lair |
@@ -53,7 +67,6 @@ Border Encounter: 1 in 1d20
 | 13-15 | 1d4 Druids of the Sea                          | 30%    | -    |
 | 16-19 | 1 Priest + 1d4 Tribal Warriors                 | 30%    | -    |
 | 20    | 1 Wraith [[Key\|(1,1)]]                        | -      | 20%  |
-
 
 ##### Around Wrath Highlands
 

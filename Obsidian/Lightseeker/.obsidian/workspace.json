@@ -109,8 +109,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "19e127e408da9221",
@@ -229,8 +228,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Worldbuilding/Places Areas/Alexander's Fountain.md",
+                "file": "06 Hexmap/Encounter Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 Worldbuilding/Places Areas/Alexander's Fountain.md",
+                "file": "06 Hexmap/Encounter Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -336,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Worldbuilding/Places Areas/Alexander's Fountain.md"
+                "file": "06 Hexmap/Encounter Tables.md"
               }
             }
           }
@@ -357,21 +355,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47d2985a3ba3f88a",
+  "active": "f57e9f910fcf4f6c",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240516072036.png",
+    "Attachments/Pasted image 20240516072009.png",
+    "Attachments/Pasted image 20240516071941.png",
+    "Attachments/Pasted image 20240516071613.png",
+    "Attachments/Pasted image 20240516071552.png",
+    "Attachments/Pasted image 20240516071534.png",
+    "Attachments/Pasted image 20240516071507.png",
+    "06 Hexmap/Rumor Table.md",
+    "06 Hexmap/Key.md",
+    "05 Worldbuilding/Places Areas/Grey Sanctuary.md",
+    "05 Worldbuilding/Eldritch/Tharract.md",
+    "05 Worldbuilding/Places Areas/Alexander's Fountain.md",
     "01 Characters/01 Maplemoor/Erasmus.md",
     "05 Worldbuilding/Villages Towns Cities/Nisa Village.md",
     "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
     "05 Worldbuilding/Places Areas/Immindell's Lab.md",
     "01 Characters/03 Cairn Lake/Iris.md",
     "01 Characters/02 Wrath Hills/Zrazur.md",
-    "05 Worldbuilding/Places Areas/Grey Sanctuary.md",
     "01 Characters/01 Maplemoor/Andurin Cragscliff.md",
     "00 Game Details/Game Pitch.md",
-    "06 Hexmap/Rumor Table.md",
     "05 Worldbuilding/Landmarks/Vanadis.md",
     "05 Worldbuilding/Rivers Lakes Ponds/Cairn Lake.md",
-    "06 Hexmap/Key.md",
     "01 Characters/Character Template.md",
     "01 Characters/01 Maplemoor/Augustus Scaleshield.md",
     "01 Characters/03 Cairn Lake",
@@ -385,9 +392,6 @@
     "Small mice.md",
     "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
     "06 Hexmap/Key Possibilities.md",
-    "06 Hexmap/Factions.md",
-    "06 Hexmap/Encounters.md",
-    "06 Hexmap/Encounter Tables.md",
     "05 Worldbuilding/Planes",
     "01 Characters/02 Wrath Hills",
     "01 Characters/01 Maplemoor",
@@ -398,13 +402,7 @@
     "Attachments/Jackal Token.png",
     "Attachments/Jackalwere Token.png",
     "05 Worldbuilding/Creatures/Humanoid",
-    "Attachments/Wraith Token.png",
-    "Attachments/Undying Soldier Token.png",
-    "Attachments/Specter Token.png",
-    "Attachments/Boneless Token.png",
-    "Attachments/Warhorse Skeleton Token.png",
     "05 Worldbuilding/Creatures/Undead",
-    "Attachments/Pixie Token.png",
     "05 Worldbuilding/Creatures/Monstrosity"
   ]
 }
