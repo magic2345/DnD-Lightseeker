@@ -2,7 +2,7 @@
 Male Dwarf Blacksmith, 42 years old.
 
 General Bio:
-An optimistic youngster (by dwarven standards) hailing from Maplemoor. His father, [[Garadun]], is [[Maplemoor Town]]'s leader.
+An optimistic youngster (by dwarven standards) hailing from [[Maplemoor Town|Maplemoor]]. His father, [[Garadun]], is [[Maplemoor Town]]'s leader.
 Cyril died after he unknowingly desecrated [[Alexander's Fountain]]. His ghost is bound to the fountain, appearing only at night.
 
 Physical Tick:

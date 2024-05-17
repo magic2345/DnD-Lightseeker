@@ -7,7 +7,7 @@ Physical Tick:
 
 Predicament:
 - **Faded Memories.** His memories are slowly fading away due to the mist. Currently, he has forgotten the existence of his wife, Helen.
-- **Escaping Vanblume.** Erasmus is currently researching plane travel to escape Vanblume.
+- **Escaping [[Vanblume]].** Erasmus is currently researching plane travel to escape [[Vanblume]].
 - **Curse of the Ageless.** He has been cursed by [[Aeterna]] to live forever, in return for the preservation of Helen.
 
 Bonds:

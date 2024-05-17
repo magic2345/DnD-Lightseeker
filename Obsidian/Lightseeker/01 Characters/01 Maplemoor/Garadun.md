@@ -1,8 +1,8 @@
 Male Dwarf Guildmaster, 240 years old.
 
 General Bio:
-Garadun is a stoic and stern leader. He grew up in Maplemoor and managed to lead the once small village into what it is now.
-Currently, he is the leader of Maplemoor.
+Garadun is a stoic and stern leader. He grew up in [[Maplemoor Town|Maplemoor]] and managed to lead the once small village into what it is now.
+Currently, he is the leader of [[Maplemoor Town|Maplemoor]].
 
 Physical Tick:
 He lightly punches people that he likes.

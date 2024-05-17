@@ -1,3 +1,9 @@
+---
+aliases:
+  - Chomoor
+  - Chomoor Ruins
+  - Chomoor Village
+---
 [[Key|Coordinates: 2,3]]
 Located in [[Garmund Forest]].
 #Key

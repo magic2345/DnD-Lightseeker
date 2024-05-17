@@ -1,3 +1,7 @@
+---
+aliases:
+  - Dona
+---
 [[Key|Coordinates: -3,6]]
 Located in [[Garmund Forest]].
 #Key

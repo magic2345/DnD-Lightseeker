@@ -1,3 +1,7 @@
+---
+aliases:
+  - Andurin
+---
 Male Dwarf Hunter, 290 years old.
 
 General Bio:

@@ -14,8 +14,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Hexmap/Encounter Tables.md",
+                "file": "02 Player Characters/Fergus.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             },
@@ -102,14 +103,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Characters/03 Cairn Lake/Iris.md",
+                "file": "05 Worldbuilding/Villages Towns Cities/Oakweller Village.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "19e127e408da9221",
@@ -122,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06 Hexmap/Encounter Tables.md",
+                "file": "02 Player Characters/Fergus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +210,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Characters/01 Maplemoor/Erasmus.md",
+                "file": "05 Worldbuilding/Hunter Clans/Violet Pyre.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -216,19 +218,20 @@
             }
           },
           {
-            "id": "47d2985a3ba3f88a",
+            "id": "6c472ec351a29510",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Worldbuilding/Places Areas/Alexander's Fountain.md",
+                "file": "02 Player Characters/Mordecai.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -294,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 Hexmap/Encounter Tables.md",
+                "file": "06 Hexmap/Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +314,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 Hexmap/Encounter Tables.md",
+                "file": "06 Hexmap/Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -334,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Hexmap/Encounter Tables.md"
+                "file": "06 Hexmap/Key.md"
               }
             }
           }
@@ -355,8 +358,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f57e9f910fcf4f6c",
+  "active": "491f11060b8681fa",
   "lastOpenFiles": [
+    "02 Player Characters/Mordecai.md",
+    "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
+    "05 Worldbuilding/Villages Towns Cities/Oakweller Village.md",
+    "06 Hexmap/Key.md",
+    "01 Characters/01 Maplemoor/Andurin Cragscliff.md",
+    "05 Worldbuilding/Hunter Clans/Violet Pyre.md",
+    "05 Worldbuilding/Hunter Clans/Serpentine Guard.md",
+    "01 Characters/03 Cairn Lake/Rose.md",
+    "01 Characters/03 Cairn Lake/Iris.md",
+    "01 Characters/03 Cairn Lake/Barnabas.md",
+    "01 Characters/01 Maplemoor/Leonius.md",
+    "01 Characters/Character Template.md",
+    "05 Worldbuilding/Divine/Minareth.md",
+    "05 Worldbuilding/Divine/Agni.md",
+    "05 Worldbuilding/Eldritch/Nazzar.md",
+    "05 Worldbuilding/Eldritch/Aeterna.md",
+    "05 Worldbuilding/Eldritch/Marielle.md",
+    "05 Worldbuilding/Eldritch/Tharract.md",
+    "05 Worldbuilding/Divine/Wagner.md",
+    "05 Worldbuilding/Divine/Rhalgar.md",
+    "05 Worldbuilding/Places Areas/Grey Sanctuary.md",
+    "01 Characters/02 Wrath Hills/Zrazur.md",
+    "02 Player Characters/Fergus.md",
+    "02 Player Characters/Xana Lightwood.md",
+    "02 Player Characters/Kris.md",
+    "02 Player Characters/Cayan.md",
+    "01 Characters/00 Deceased",
     "Attachments/Pasted image 20240516072036.png",
     "Attachments/Pasted image 20240516072009.png",
     "Attachments/Pasted image 20240516071941.png",
@@ -364,34 +394,9 @@
     "Attachments/Pasted image 20240516071552.png",
     "Attachments/Pasted image 20240516071534.png",
     "Attachments/Pasted image 20240516071507.png",
-    "06 Hexmap/Rumor Table.md",
-    "06 Hexmap/Key.md",
-    "05 Worldbuilding/Places Areas/Grey Sanctuary.md",
-    "05 Worldbuilding/Eldritch/Tharract.md",
-    "05 Worldbuilding/Places Areas/Alexander's Fountain.md",
-    "01 Characters/01 Maplemoor/Erasmus.md",
-    "05 Worldbuilding/Villages Towns Cities/Nisa Village.md",
-    "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
-    "05 Worldbuilding/Places Areas/Immindell's Lab.md",
-    "01 Characters/03 Cairn Lake/Iris.md",
-    "01 Characters/02 Wrath Hills/Zrazur.md",
-    "01 Characters/01 Maplemoor/Andurin Cragscliff.md",
-    "00 Game Details/Game Pitch.md",
-    "05 Worldbuilding/Landmarks/Vanadis.md",
-    "05 Worldbuilding/Rivers Lakes Ponds/Cairn Lake.md",
-    "01 Characters/Character Template.md",
-    "01 Characters/01 Maplemoor/Augustus Scaleshield.md",
     "01 Characters/03 Cairn Lake",
-    "05 Worldbuilding/Materials/Ironwood.md",
-    "05 Worldbuilding/Hunter Clans/Serpentine Guard.md",
-    "01 Characters/01 Maplemoor/Garadun.md",
     "05 Worldbuilding/Materials",
     "05 Worldbuilding/Hunter Clans",
-    "00 Game Details/Unused House Rules.md",
-    "06 Hexmap/Hexmap Rules.md",
-    "Small mice.md",
-    "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
-    "06 Hexmap/Key Possibilities.md",
     "05 Worldbuilding/Planes",
     "01 Characters/02 Wrath Hills",
     "01 Characters/01 Maplemoor",
@@ -400,9 +405,7 @@
     "Attachments/Lamia Token.png",
     "Attachments/Ankheg Token.png",
     "Attachments/Jackal Token.png",
-    "Attachments/Jackalwere Token.png",
     "05 Worldbuilding/Creatures/Humanoid",
-    "05 Worldbuilding/Creatures/Undead",
-    "05 Worldbuilding/Creatures/Monstrosity"
+    "05 Worldbuilding/Creatures/Undead"
   ]
 }

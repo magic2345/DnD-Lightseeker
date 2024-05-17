@@ -1,3 +1,7 @@
+---
+aliases:
+  - Nisa
+---
 [[Key|Coordinates: 2.-5]]
 Located in [[Garmund Forest]].
 #Key

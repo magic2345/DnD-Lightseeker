@@ -1,3 +1,7 @@
+---
+aliases:
+  - Augustus
+---
 Male Yuan-ti Hunter, 42
 
 General Bio:
@@ -8,11 +12,11 @@ Physical Tick:
 Often hisses like a snake.
 
 Predicament:
-- **Urgent News.** A letter for his wife in Oakweller Village.
+- **Urgent News.** A letter for his wife in [[Oakweller Village]].
 	*To Jasmine, my dearest*
 	
 	*"I will not be going back home this month. I have decided to take on a big mission that will take me down South. It seems a band of gnolls have made the area somewhat dangerous.*
-	*This will be our big break, I know it. The employer this time is a rich noble who has connections to the guildmasters of Maplemoor. Our dream of opening up a shop and moving to [[Maplemoor Town|Maplemoor]] will finally come true!*"
+	*This will be our big break, I know it. The employer this time is a rich noble who has connections to the guildmasters of [[Maplemoor Town|Maplemoor]]. Our dream of opening up a shop and moving to [[Maplemoor Town|Maplemoor]] will finally come true!*"
 	
 	*With Love, Augustus*
 - **A Deal with Druids.** Augustus has made a deal with the alpine druids from [[Horcian Mountain Range]], the mountain range to the east. In return of Ironwood armor, he is tasked to plant strange seeds near all the towns and villages.
