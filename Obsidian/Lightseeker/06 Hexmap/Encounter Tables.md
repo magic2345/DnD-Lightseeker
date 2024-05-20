@@ -55,7 +55,7 @@ Border Encounter: 1 in 1d20
 	![[Pasted image 20240516072009.png]]
 - Effects 3
 	![[Pasted image 20240516072036.png]]
-##### Around Horcian Mountain
+##### Around Lunatine Mountain
 
 | d20   | Encounter                                      | Tracks | Lair |
 | ----- | ---------------------------------------------- | ------ | ---- |

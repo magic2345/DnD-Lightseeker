@@ -17,5 +17,5 @@ Points of Interest:
 - **Fishing and Foraging.** The villagers are mostly fish from the lake and forage from the nearby swamps for their sustenance. They are also the village's main export.
 - **Clarity.** The town is enveloped an aura of clarity produced by the elder tree. Substances that inhibit the mind is banned, its effects also diminished.
 - **Somewhat Isolated.** Currently, the village isn't all that connected.
-	- [[Maplemoor Town]]. The villagers are trying to pave the way to Maplemoor.
+	- [[Maplemoor Town]]. The villagers are trying to pave the way to [[Maplemoor Town|Maplemoor]].
 	- 

@@ -15,6 +15,7 @@ Predicament:
 - **Deep Regret.** He has always regretted his decision to leave his comrades.
 - **Hopeless.** Underneath his jolly exterior, Andurin is close to breaking. With a strong enough push, he will turn into a monstrosity.
 - **Loyal to Tradition.** Many of the hunter clans in [[Maplemoor Town]] were created by him.
+- **Hunter Aura.** Being watched by a giant eye.
 
 Bonds:
 - 

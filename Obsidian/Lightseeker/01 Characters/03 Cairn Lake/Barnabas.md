@@ -12,6 +12,7 @@ Predicament:
 - **Bonfire Ritual.** This is a ritual of destruction and deception. In order to appease his god and become stronger, Barnabas has resolved to starting fires. He will then frame it on others, instigating tension and hostility.
 - **Only Ashes Remain.** Barnabas' wife, [[Rose]], was burned at the stake, falsely accused of being a worshipper of tainted gods. In reality, she was taking the blame for Barnabas. Her last words to him were,
 	"*Barnabas, at least you believe me, right? I've never worshipped a tainted god...*"
+- **Hunter's Aura.** Scorching heat.
 
 Bonds:
 - **[[Rose]] (Wife, deceased).** 

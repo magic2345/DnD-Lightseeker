@@ -3,7 +3,7 @@ Fairy, Acolyte
 Twilight Cleric
 
 ##### Past
-- Cayan came from a fairy village close to [[Maplemoor Town|Maplemoor]].
+- Cayan came from a fairy village close to [[Maplemoor Town|Maplemoor]] named [[Innswood Village Ruins|Innswood]].
 - She was told to go the the church of [[Minareth]] to get food.
 - When Cayan returned, her village was already burning down.
 - Andurin helped the village. Yet, unfortunately, none survived.

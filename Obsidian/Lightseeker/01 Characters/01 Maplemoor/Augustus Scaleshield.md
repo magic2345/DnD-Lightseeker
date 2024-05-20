@@ -22,6 +22,7 @@ Predicament:
 - **A Deal with Druids.** Augustus has made a deal with the alpine druids from [[Horcian Mountain Range]], the mountain range to the east. In return of Ironwood armor, he is tasked to plant strange seeds near all the towns and villages.
 - **Big Dreams.** Augustus and his family dreams of finally moving to [[Maplemoor Town|Maplemoor]] and opening up a shop, essentially leaving the hunter lifestyle.
 - **Sickly Daughter.** His daughter, [[Iris]], has been sickly from birth. Augustus just found out that the reason might be because she lives too close to [[Cairn Lake]].
+- **Hunter Aura.** Snake constricting around the whole body.
 
 Bonds:
 - Jasmine (Wife). She lives in [[Oakweller Village]]. A human seamstress with subpar skills.

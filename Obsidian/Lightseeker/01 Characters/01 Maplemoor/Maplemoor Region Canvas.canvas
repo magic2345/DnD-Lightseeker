@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"371935f61edac6ac","type":"file","file":"Attachments/Ankheg SB.png","x":-280,"y":-280,"width":400,"height":320},
+		{"id":"d07b2e6508a2701a","type":"file","file":"Attachments/Ankheg Broodling SB.png","x":120,"y":-280,"width":302,"height":260},
+		{"id":"4d137dcd59a19058","type":"file","file":"Attachments/Brigganock SB.png","x":-280,"y":100,"width":460,"height":564},
+		{"id":"9549ef8fc86750e7","type":"file","file":"Attachments/Couatl SB.png","x":-780,"y":-280,"width":460,"height":615},
+		{"id":"b223a6b8812a247d","type":"file","file":"Attachments/Maplemoor Cavern.jpg","x":-780,"y":-1000,"width":900,"height":649},
+		{"id":"f53a12a08136f94e","type":"file","file":"Attachments/Thorn Slinger SB.png","x":-780,"y":382,"width":400,"height":368},
+		{"id":"b01ef9befc93b3b6","type":"file","file":"Attachments/Stirge SB.png","x":222,"y":100,"width":399,"height":310},
+		{"id":"f22083614d03f3b7","type":"text","text":"# Encounter Table\n1 in d6 = Encounter (Roll twice for double encounter)\n2 in d6 = Tracks\n\n| 2d6   | Result               |\n| ----- | -------------------- |\n| 1     | Couatl               |\n| 2     | Townsfolk Ghost      |\n| 3-4   | 1d4 Brigganocks      |\n| 5-6   | 2d4 Stirges          |\n| 7-8   | 1d4 Cattle           |\n| 9     | 1d4 Ankheg Broodling |\n| 10-11 | Hunter Ghost         |\n| 12    | Ankheg               |\n","x":-780,"y":-1520,"width":320,"height":480},
+		{"id":"53a6a7b1c564d201","type":"file","file":"05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md","x":-1640,"y":-1000,"width":640,"height":980},
+		{"id":"528c97785c9e5ec9","type":"file","file":"01 Characters/01 Maplemoor/Andurin Cragscliff.md","x":222,"y":-914,"width":400,"height":477},
+		{"id":"b3ab96ad30d4e6c1","type":"text","text":"# Loot Table\n\n| d10 | Result                                        |\n| --- | --------------------------------------------- |\n| 1   | A pouch of seeds                              |\n| 2   | 2 unusual coins                               |\n| 3   | A vial of perfume (5 gp)                      |\n| 4   | A set of fine brushes (5 gp)                  |\n| 5   | Eviction notice                               |\n| 6   | A vial of ink (10 gp)                         |\n| 7   | A deck of playing cards                       |\n| 8   | Seashells                                     |\n| 9   | Spectacles (100 gp)                           |\n| 10  | 1 Berserk Dart and 2 Sleep Darts              |\n| 11  | 3 Bodkin Arrows                               |\n| 12  | Witch's Tears (60 ft darkvision for 1 hour)   |\n| 13  | Antitoxin                                     |\n| 14  | Dagger (Silvered)                             |\n| 15  | Alchemist Runestone                           |\n| 16  | Scroll of Scorching Ray                       |\n| 17  | Scroll of Cure Wounds                         |\n| 18  | Ornate Walking Cane (doubles as a shortsword) |\n| 19  | A brass bell inscribed with the name Puddles  |\n| 20  | A wooden doll of a griffon                    |\n","x":-283,"y":-1840,"width":403,"height":800}
+	],
+	"edges":[
+		{"id":"87e821d037a8be9d","fromNode":"53a6a7b1c564d201","fromSide":"right","toNode":"b223a6b8812a247d","toSide":"left"},
+		{"id":"50b3ecbec2944811","fromNode":"528c97785c9e5ec9","fromSide":"left","toNode":"b223a6b8812a247d","toSide":"right"},
+		{"id":"e5c6291f5a55864c","fromNode":"f22083614d03f3b7","fromSide":"right","toNode":"b223a6b8812a247d","toSide":"top"},
+		{"id":"e6f8a302bcdf7fc4","fromNode":"b3ab96ad30d4e6c1","fromSide":"left","toNode":"b223a6b8812a247d","toSide":"top"}
+	]
+}
