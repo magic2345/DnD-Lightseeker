@@ -21,18 +21,6 @@
             }
           },
           {
-            "id": "4096f6f8089ab6a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cfb663481b2e6286",
             "type": "leaf",
             "state": {
@@ -51,32 +39,6 @@
               "type": "markdown",
               "state": {
                 "file": "01 Characters/01 Maplemoor/Andurin Cragscliff.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68f3879db1807a69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Worldbuilding/Places Areas/Grey Sanctuary.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f433e6bac5c8343",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Characters/02 Wrath Hills/Zrazur.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,14 +78,15 @@
               "state": {
                 "file": "01 Characters/01 Maplemoor/Maplemoor Region Canvas.canvas",
                 "viewState": {
-                  "x": -145.2074224516454,
-                  "y": -355.3740155224531,
-                  "zoom": -0.6666666666666665
+                  "x": -155.7467175856026,
+                  "y": -293.8124112672881,
+                  "zoom": -1.1666666666666663
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "19e127e408da9221",
@@ -155,63 +118,12 @@
             }
           },
           {
-            "id": "bc00abf9be01f34a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Worldbuilding/Places Areas/Immindell's Lab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "eeea135d5e3c548c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "091384d9d1c7cd65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Worldbuilding/Villages Towns Cities/Nisa Village.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2236ed693dc2794",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Worldbuilding/Hunter Clans/Violet Pyre.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c472ec351a29510",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Worldbuilding/Villages Towns Cities/Innswood Village Ruins.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -229,9 +141,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82cfb6c024a526c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Session Recaps/Session 1 Recap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -297,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 Hexmap/Rumor Table.md",
+                "file": "04 Session Recaps/Session 1 Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 Hexmap/Rumor Table.md",
+                "file": "04 Session Recaps/Session 1 Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -337,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Hexmap/Rumor Table.md"
+                "file": "04 Session Recaps/Session 1 Recap.md"
               }
             }
           }
@@ -358,16 +282,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3775e6916cfc868f",
+  "active": "82cfb6c024a526c5",
   "lastOpenFiles": [
-    "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
-    "06 Hexmap/Rumor Table.md",
+    "04 Session Recaps/Session 1 Recap.md",
     "01 Characters/01 Maplemoor/Maplemoor Region Canvas.canvas",
+    "06 Hexmap/Rumor Table.md",
+    "06 Hexmap/Hexmap Rules.md",
+    "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
+    "01 Characters/01 Maplemoor/Andurin Cragscliff.md",
+    "05 Worldbuilding/Villages Towns Cities/Innswood Village Ruins.md",
+    "05 Worldbuilding/Hunter Clans/Violet Pyre.md",
+    "05 Worldbuilding/Villages Towns Cities/Nisa Village.md",
+    "06 Hexmap/Encounter Tables.md",
+    "05 Worldbuilding/Places Areas/Immindell's Lab.md",
+    "06 Hexmap/Key.md",
+    "05 Worldbuilding/Villages Towns Cities/Oakweller Village.md",
+    "01 Characters/02 Wrath Hills/Zrazur.md",
+    "05 Worldbuilding/Places Areas/Grey Sanctuary.md",
+    "00 Game Details/Game Pitch.md",
+    "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
     "05 Worldbuilding/Eldritch/Tharract.md",
     "05 Worldbuilding/Eldritch/Nazzar.md",
     "02 Player Characters/Kris.md",
-    "06 Hexmap/Hexmap Rules.md",
-    "06 Hexmap/Key.md",
     "Attachments/Maplemoor Cavern.jpg",
     "Attachments/Thorn Slinger SB.png",
     "Attachments/Stirge SB.png",
@@ -375,25 +311,14 @@
     "Attachments/Brigganock SB.png",
     "Attachments/Ankheg Broodling SB.png",
     "Attachments/Ankheg SB.png",
-    "06 Hexmap/Encounter Tables.md",
     "Small mice.md",
-    "05 Worldbuilding/Villages Towns Cities/Oakweller Village.md",
     "2024-05-17.md",
-    "01 Characters/02 Wrath Hills/Zrazur.md",
-    "05 Worldbuilding/Places Areas/Grey Sanctuary.md",
-    "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
-    "01 Characters/01 Maplemoor/Andurin Cragscliff.md",
     "01 Characters/01 Maplemoor/Augustus Scaleshield.md",
     "01 Characters/01 Maplemoor/Cyril.md",
     "01 Characters/01 Maplemoor/Erasmus.md",
     "01 Characters/01 Maplemoor/Garadun.md",
     "01 Characters/01 Maplemoor/Helen.md",
-    "01 Characters/01 Maplemoor/Leonius.md",
-    "01 Characters/03 Cairn Lake/Barnabas.md",
     "Untitled.canvas",
-    "05 Worldbuilding/Villages Towns Cities/Innswood Village Ruins.md",
-    "02 Player Characters/Fergus.md",
-    "02 Player Characters/Cayan.md",
     "01 Characters/00 Deceased",
     "Attachments/Pasted image 20240516072036.png",
     "Attachments/Pasted image 20240516072009.png",
