@@ -56,6 +56,7 @@ Border Encounter: 1 in 1d20
 - Effects 3
 	![[Pasted image 20240516072036.png]]
 ##### Around Lunatine Mountain
+###### Encounter
 
 | d20   | Encounter                                      | Tracks | Lair |
 | ----- | ---------------------------------------------- | ------ | ---- |
@@ -67,9 +68,48 @@ Border Encounter: 1 in 1d20
 | 13-15 | 1d4 Druids of the Sea                          | 30%    | -    |
 | 16-19 | 1 Priest + 1d4 Tribal Warriors                 | 30%    | -    |
 | 20    | 1 Wraith [[Key\|(1,1)]]                        | -      | 20%  |
+###### Location
+
+| d8  | Location/Environmental Features            |
+| --- | ------------------------------------------ |
+| 1   | Fallen tree on the road                    |
+| 2   | Sole dead tree                             |
+| 3   | Small altar to Minareth                    |
+| 4   | Remains of a broken cart/carriage          |
+| 5   | Drag marks into a nearby cave              |
+| 6   | Landslide                                  |
+| 7   | Ashes floating in the wind                 |
+| 8   | An abandoned house on the side of the road |
 
 ##### Around Wrath Highlands
 
 | d20 | Encounter | Tracks | Lair |
 | --- | --------- | ------ | ---- |
 |     |           |        |      |
+
+##### Around Chomoor Village
+###### Encounter
+
+| d20   | Encounter                         | Tracks | Lair |
+| ----- | --------------------------------- | ------ | ---- |
+| 1-3   | 1d4+2 Gnolls                      | 40%    | 30%  |
+| 4-6   | 1d4 Jackalweres + 1d6 Jackals     | 60%    |      |
+| 7-8   | 1d4 Ammurs                        | 30%    | 50%  |
+| 9-10  | 1d4+1 Thugs                       | 20%    | 30%  |
+| 11    | Draconian Infiltrator             | 40%    | 20%  |
+| 12-14 | 1d6 Ashen Warhorses               | 35%    | 20%  |
+| 15-17 | 1d4 Venomous Gnolls               | 40%    | 15%  |
+| 18    | 1 Gnoll Havoc Runner + 1d4 Gnolls | 60%    | 25%  |
+| 19-20 | Pseudodragon                      | 30%    | 30%  |
+|       |                                   |        |      |
+###### Location
+| d8  | Location/Environmental Features |
+| --- | ------------------------------- |
+| 1   | Ashes in the wind               |
+| 2   | Ruined camp                     |
+| 3   | Giant tree with a hole          |
+| 4   | Giant boulders                  |
+| 5   | Cave                            |
+| 6   | Felled trees                    |
+| 7   | Blood splatters                 |
+| 8   | Giant nest                      |

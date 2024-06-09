@@ -6,27 +6,14 @@
       {
         "id": "6b4ccd68e462ece0",
         "type": "tabs",
-        "dimension": 47.21780604133545,
         "children": [
           {
-            "id": "3775e6916cfc868f",
+            "id": "d5cb61be90e17881",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Hexmap/Rumor Table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfb663481b2e6286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Game Details/Game Pitch.md",
+                "file": "06 Hexmap/Key.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Characters/01 Maplemoor/Andurin Cragscliff.md",
+                "file": "06 Hexmap/Encounter Tables.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,14 +33,13 @@
             }
           },
           {
-            "id": "6a5fdcd8365267b5",
+            "id": "3775e6916cfc868f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Worldbuilding/Villages Towns Cities/Oakweller Village.md",
+                "file": "06 Hexmap/Rumor Table.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -76,32 +62,12 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "01 Characters/01 Maplemoor/Maplemoor Region Canvas.canvas",
+                "file": "01 Characters/04 Chomoor/Chomoor Region.canvas",
                 "viewState": {
-                  "x": -155.7467175856026,
-                  "y": -293.8124112672881,
-                  "zoom": -1.1666666666666663
+                  "x": 553.1743858682472,
+                  "y": 325.76845054306324,
+                  "zoom": -1
                 }
-              }
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "19e127e408da9221",
-        "type": "tabs",
-        "dimension": 52.78219395866455,
-        "children": [
-          {
-            "id": "d5cb61be90e17881",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 Hexmap/Key.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -109,11 +75,14 @@
             "id": "45f0bb4a225e224d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "06 Hexmap/Encounter Tables.md",
-                "mode": "source",
-                "source": false
+                "file": "01 Characters/01 Maplemoor/Maplemoor Region Canvas.canvas",
+                "viewState": {
+                  "x": -3549.6342065505323,
+                  "y": -749.6487608102315,
+                  "zoom": 0.42160554968166003
+                }
               }
             }
           },
@@ -131,31 +100,30 @@
             }
           },
           {
-            "id": "6ac1a762b082c160",
+            "id": "56b1bc77ed22e27e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Characters/01 Maplemoor/Andurin Cragscliff.md",
+                "file": "04 Session Recaps/Session 3 Recap.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "82cfb6c024a526c5",
+            "id": "cfb663481b2e6286",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Session Recaps/Session 1 Recap.md",
+                "file": "00 Game Details/Game Pitch.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 225.5
   },
   "right": {
     "id": "f694db135d5bf0dc",
@@ -221,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Session Recaps/Session 1 Recap.md",
+                "file": "06 Hexmap/Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Session Recaps/Session 1 Recap.md",
+                "file": "06 Hexmap/Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Session Recaps/Session 1 Recap.md"
+                "file": "06 Hexmap/Key.md"
               }
             }
           }
@@ -282,47 +250,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82cfb6c024a526c5",
+  "active": "d5cb61be90e17881",
   "lastOpenFiles": [
-    "04 Session Recaps/Session 1 Recap.md",
+    "05 Worldbuilding/Villages Towns Cities/Dona Village.md",
+    "06 Hexmap/Key.md",
+    "05 Worldbuilding/Villages Towns Cities/Innswood Village Ruins.md",
+    "01 Characters/04 Chomoor/Chomoor Region.canvas",
+    "05 Worldbuilding/Divine/Agni.md",
+    "05 Worldbuilding/Divine/Minareth.md",
+    "05 Worldbuilding/Divine/Wagner.md",
+    "05 Worldbuilding/Divine/Rhalgar.md",
+    "05 Worldbuilding/Eldritch/Marielle.md",
+    "05 Worldbuilding/Eldritch/Tharract.md",
+    "05 Worldbuilding/Eldritch/Nazzar.md",
+    "05 Worldbuilding/Creatures/Monstrosity/Lamia.md",
+    "01 Characters/01 Maplemoor/Garadun.md",
+    "04 Session Recaps/Session 3 Recap.md",
+    "04 Session Recaps/Session 2 Recap.md",
+    "01 Characters/03 Cairn Lake/Barnabas.md",
+    "06 Hexmap/Encounter Tables.md",
     "01 Characters/01 Maplemoor/Maplemoor Region Canvas.canvas",
     "06 Hexmap/Rumor Table.md",
     "06 Hexmap/Hexmap Rules.md",
-    "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
-    "01 Characters/01 Maplemoor/Andurin Cragscliff.md",
-    "05 Worldbuilding/Villages Towns Cities/Innswood Village Ruins.md",
-    "05 Worldbuilding/Hunter Clans/Violet Pyre.md",
-    "05 Worldbuilding/Villages Towns Cities/Nisa Village.md",
-    "06 Hexmap/Encounter Tables.md",
-    "05 Worldbuilding/Places Areas/Immindell's Lab.md",
-    "06 Hexmap/Key.md",
-    "05 Worldbuilding/Villages Towns Cities/Oakweller Village.md",
-    "01 Characters/02 Wrath Hills/Zrazur.md",
-    "05 Worldbuilding/Places Areas/Grey Sanctuary.md",
     "00 Game Details/Game Pitch.md",
-    "05 Worldbuilding/Location Keys/Cliffside Wizard House.md",
-    "05 Worldbuilding/Eldritch/Tharract.md",
-    "05 Worldbuilding/Eldritch/Nazzar.md",
-    "02 Player Characters/Kris.md",
-    "Attachments/Maplemoor Cavern.jpg",
-    "Attachments/Thorn Slinger SB.png",
-    "Attachments/Stirge SB.png",
-    "Attachments/Couatl SB.png",
-    "Attachments/Brigganock SB.png",
-    "Attachments/Ankheg Broodling SB.png",
-    "Attachments/Ankheg SB.png",
-    "Small mice.md",
-    "2024-05-17.md",
-    "01 Characters/01 Maplemoor/Augustus Scaleshield.md",
-    "01 Characters/01 Maplemoor/Cyril.md",
-    "01 Characters/01 Maplemoor/Erasmus.md",
-    "01 Characters/01 Maplemoor/Garadun.md",
-    "01 Characters/01 Maplemoor/Helen.md",
+    "05 Worldbuilding/Factions/Rhalgar's Fang.md",
+    "05 Worldbuilding/Location Keys/Seal of the Deep.md",
+    "Attachments/Pasted image 20240606212748.png",
+    "05 Worldbuilding/Factions/Harvington House.md",
+    "05 Worldbuilding/Factions/Xandrine Palace.md",
+    "05 Worldbuilding/Hills Mountains/Wrath Highlands.md",
+    "05 Worldbuilding/Hills Mountains/Lunatine Mountain.md",
+    "05 Worldbuilding/Hills Mountains/Horcian Mountain Range.md",
+    "Attachments/Pasted image 20240606212305.png",
+    "Attachments/Pasted image 20240606212231.png",
+    "Attachments/Pasted image 20240606212213.png",
+    "Attachments/Pasted image 20240606211925.png",
+    "Attachments/Pasted image 20240606211616.png",
+    "Attachments/Pasted image 20240606211459.png",
+    "Attachments/Pasted image 20240606211431.png",
+    "Attachments/Pasted image 20240606211407.png",
+    "Attachments/Pasted image 20240606211235.png",
+    "01 Characters/04 Chomoor",
     "Untitled.canvas",
     "01 Characters/00 Deceased",
-    "Attachments/Pasted image 20240516072036.png",
-    "Attachments/Pasted image 20240516072009.png",
-    "Attachments/Pasted image 20240516071941.png",
     "01 Characters/03 Cairn Lake",
     "05 Worldbuilding/Materials",
     "05 Worldbuilding/Hunter Clans",
@@ -330,7 +300,6 @@
     "01 Characters/02 Wrath Hills",
     "01 Characters/01 Maplemoor",
     "05 Worldbuilding/Eldritch",
-    "05 Worldbuilding/Creatures/Humanoid",
-    "05 Worldbuilding/Creatures/Undead"
+    "05 Worldbuilding/Creatures/Humanoid"
   ]
 }

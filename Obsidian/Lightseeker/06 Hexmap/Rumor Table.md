@@ -14,4 +14,10 @@
 | 11  | People in [[Nisa Village]] are annoying and easily get angry.                                                 |
 | 12  | Concoction able to make oneself more beautiful.                                                               |
 | 14  | Rising tensions among the guildmasters of [[Maplemoor Town\|Maplemoor]].                                      |
-| 15  |                                                                                                               |
+| 15  | The church of [[Minareth]] had a disagreement with the Maplemoor higher ups.                                  |
+| 16  | Visitors from the west, looking for a temple to a sea god.                                                    |
+| 17  | Cannibal tribesmen led by a priest.                                                                           |
+| 18  | Pet dogs being too scared to go outside.                                                                      |
+| 19  | The sound of horns reverberating in the [[Lunatine Mountain]] and its surrounding hills.                      |
+| 20  | A forest fire to the west, across the river.                                                                  |
+|     |                                                                                                               |
