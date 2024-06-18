@@ -14,12 +14,12 @@
 		{"id":"b7c9e977313bd542","type":"file","file":"Attachments/Pasted image 20240605211755.png","x":-1640,"y":740,"width":400,"height":334},
 		{"id":"52ce404054e8c684","type":"file","file":"Attachments/Pasted image 20240605211927.png","x":-1640,"y":1100,"width":400,"height":418},
 		{"id":"05ace4a07b13554f","type":"file","file":"Attachments/Pasted image 20240605212142.png","x":-780,"y":1540,"width":402,"height":474},
-		{"id":"d3b92e3a2d660b71","type":"file","file":"01 Characters/04 Chomoor/Garmund.md","x":120,"y":300,"width":420,"height":810},
 		{"id":"1db4b1fb09ab4c3c","type":"file","file":"Attachments/Pasted image 20240605210940.png","x":1020,"y":200,"width":399,"height":330},
 		{"id":"c4a99e1bbf7ff8d0","type":"file","file":"Attachments/Pasted image 20240605211007.png","x":1020,"y":-240,"width":383,"height":400},
 		{"id":"6f559e2286c0fa41","type":"file","file":"Attachments/Pasted image 20240606212748.png","x":1419,"y":-240,"width":399,"height":314},
 		{"id":"598b8a3993360487","type":"file","file":"Attachments/Ankheg SB.png","x":1840,"y":-243,"width":400,"height":320},
-		{"id":"470e35b9b7b7ffb9","type":"file","file":"06 Hexmap/Rumor Table.md","x":-797,"y":-920,"width":400,"height":1200,"color":"1"}
+		{"id":"470e35b9b7b7ffb9","type":"file","file":"06 Hexmap/Rumor Table.md","x":-797,"y":-920,"width":400,"height":1200,"color":"1"},
+		{"id":"d3b92e3a2d660b71","type":"file","file":"01 Characters/04 Chomoor/Garmund.md","x":120,"y":300,"width":420,"height":810}
 	],
 	"edges":[]
 }

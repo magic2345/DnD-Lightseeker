@@ -1,23 +1,23 @@
 ##### -2/2,-7,7
 
-|     |         -2          |     -1      |                        0                        |                        1                        |                                        2                                         |
-| --- | :-----------------: | :---------: | :---------------------------------------------: | :---------------------------------------------: | :------------------------------------------------------------------------------: |
-| -7  |                     |             |                                                 |                                                 |                                                                                  |
-| -6  |                     |             |               [[Xandrine Palace]]               |            [[Alexander's Fountain]]             |                                                                                  |
-| -5  | [[Immindell's Lab]] |             |                                                 |                                                 |                                 [[Nisa Village]]                                 |
-| -4  |                     |             |                                                 |                                                 |                                                                                  |
-| -3  |                     |             |                                                 |                                                 |                                                                                  |
-| -2  |                     |             |                                                 |                                                 |                                                                                  |
-| -1  |                     |             |           [[Cliffside Wizard House]]            | [[Whiteshell Caverns]],<br>[[Seal of the Deep]] |                                                                                  |
-| 0   |                     |             |               [[Maplemoor Town]]                |                                                 | A Stone Fountain Surrounded by Trees, drinking it allows you to ask one question |
-| 1   |                     |             |            Statue of a Fallen Knight            |         [[Harvington Ancestral Grave]]          |                           Rhalgar's Fang Pioneer Camp                            |
-| 2   |                     |             |                                                 |                                                 |                                                                                  |
-| 3   |                     |             |      A Small Shrine with Red Glowing Runes      |            [[Vain Gardens of Uerna]]            |                            [[Chomoor Village Ruins]]                             |
-| 4   |                     | Amber Trees |                                                 |                                                 |                 Underground Caverns that feel warm to the touch                  |
-| 5   |                     |             | Tree with Insignia,<br>Statue of a Kenku Ranger |                                                 |                                                                                  |
-| 6   |                     |             |                                                 |                                                 |                                                                                  |
-| 7   |                     |             |                                                 |                                                 |                                                                                  |
-|     |                     |             |                                                 |                                                 |                                                                                  |
+|     |         -2          |             -1              |                        0                        |                        1                        |                                        2                                         |
+| --- | :-----------------: | :-------------------------: | :---------------------------------------------: | :---------------------------------------------: | :------------------------------------------------------------------------------: |
+| -7  |                     |                             |                                                 |                                                 |                                                                                  |
+| -6  |                     |                             |               [[Xandrine Palace]]               |            [[Alexander's Fountain]]             |                                                                                  |
+| -5  | [[Immindell's Lab]] |                             |                                                 |                                                 |                                 [[Nisa Village]]                                 |
+| -4  |                     |                             |                                                 |                                                 |                                                                                  |
+| -3  |                     |                             |                                                 |                                                 |                                                                                  |
+| -2  |                     |                             |                                                 |                                                 |                                                                                  |
+| -1  |                     |                             |           [[Cliffside Wizard House]]            | [[Whiteshell Caverns]],<br>[[Seal of the Deep]] |                                                                                  |
+| 0   |                     |                             |               [[Maplemoor Town]]                |                                                 | A Stone Fountain Surrounded by Trees, drinking it allows you to ask one question |
+| 1   |                     |                             |            Statue of a Fallen Knight            |         [[Harvington Ancestral Grave]]          |                           Rhalgar's Fang Pioneer Camp                            |
+| 2   |                     | Rhalgar's Fang Pioneer Camp |                                                 |                                                 |                                                                                  |
+| 3   |                     |                             |      A Small Shrine with Red Glowing Runes      |            [[Vain Gardens of Uerna]]            |                            [[Chomoor Village Ruins]]                             |
+| 4   |                     |         Amber Trees         |                                                 |                                                 |                 Underground Caverns that feel warm to the touch                  |
+| 5   |                     |                             | Tree with Insignia,<br>Statue of a Kenku Ranger |                                                 |                                                                                  |
+| 6   |                     |                             |           Rhalgar's Fang Pioneer Camp           |                                                 |                                                                                  |
+| 7   |                     |                             |                                                 |                                                 |                                                                                  |
+|     |                     |                             |                                                 |                                                 |                                                                                  |
 
 ##### -7/-3,-7,7
 
@@ -49,7 +49,7 @@
 | -3  |                                                          |                                                |     |                    |     |
 | -2  |                                                          |                                                |     |                    |     |
 | -1  |                                                          |                                                |     |                    |     |
-| 0   |                                                          |                                                |     |                    |     |
+| 0   |                                                          |                                                |     |    Rhalinshire     |     |
 | 1   |                  Airship Atop the Trees                  |                                                |     |                    |     |
 | 2   |                  Abandoned Wheat Fields                  | Giant Tree at the center of a field of flowers |     |                    |     |
 | 3   |                                                          |                                                |     |                    |     |
