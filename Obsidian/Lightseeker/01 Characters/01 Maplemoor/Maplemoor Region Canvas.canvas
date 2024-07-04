@@ -7,11 +7,10 @@
 		{"id":"f53a12a08136f94e","type":"file","file":"Attachments/Thorn Slinger SB.png","x":-780,"y":382,"width":400,"height":368},
 		{"id":"b01ef9befc93b3b6","type":"file","file":"Attachments/Stirge SB.png","x":222,"y":100,"width":399,"height":310},
 		{"id":"f22083614d03f3b7","type":"text","text":"# Encounter Table\n1 in d6 = Encounter (Roll twice for double encounter)\n2 in d6 = Tracks\n\n| 2d6   | Result               |\n| ----- | -------------------- |\n| 1     | Couatl               |\n| 2     | Townsfolk Ghost      |\n| 3-4   | 1d4 Brigganocks      |\n| 5-6   | 2d4 Stirges          |\n| 7-8   | 1d4 Cattle           |\n| 9     | 1d4 Ankheg Broodling |\n| 10-11 | Hunter Ghost         |\n| 12    | Ankheg               |\n","x":-780,"y":-1520,"width":320,"height":480},
-		{"id":"53a6a7b1c564d201","type":"file","file":"05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md","x":-1640,"y":-1000,"width":640,"height":980},
 		{"id":"528c97785c9e5ec9","type":"file","file":"01 Characters/01 Maplemoor/Andurin Cragscliff.md","x":222,"y":-914,"width":400,"height":477},
 		{"id":"b3ab96ad30d4e6c1","type":"text","text":"# Loot Table\n\n| d10 | Result                                        |\n| --- | --------------------------------------------- |\n| 1   | A pouch of seeds                              |\n| 2   | 2 unusual coins                               |\n| 3   | A vial of perfume (5 gp)                      |\n| 4   | A set of fine brushes (5 gp)                  |\n| 5   | Eviction notice                               |\n| 6   | A vial of ink (10 gp)                         |\n| 7   | A deck of playing cards                       |\n| 8   | Seashells                                     |\n| 9   | Spectacles (100 gp)                           |\n| 10  | 1 Berserk Dart and 2 Sleep Darts              |\n| 11  | 3 Bodkin Arrows                               |\n| 12  | Witch's Tears (60 ft darkvision for 1 hour)   |\n| 13  | Antitoxin                                     |\n| 14  | Dagger (Silvered)                             |\n| 15  | Alchemist Runestone                           |\n| 16  | Scroll of Scorching Ray                       |\n| 17  | Scroll of Cure Wounds                         |\n| 18  | Ornate Walking Cane (doubles as a shortsword) |\n| 19  | A brass bell inscribed with the name Puddles  |\n| 20  | A wooden doll of a griffon                    |\n","x":-283,"y":-1840,"width":403,"height":800},
 		{"id":"d07b2e6508a2701a","type":"file","file":"Attachments/Ankheg Broodling SB.png","x":120,"y":-280,"width":302,"height":260},
-		{"id":"6b031652e08f6d30","type":"file","file":"06 Hexmap/Encounter Tables.md","x":-2600,"y":-1000,"width":420,"height":658},
+		{"id":"6b031652e08f6d30","type":"file","file":"06 Hexmap/Encounter Tables.md","x":-2600,"y":-860,"width":420,"height":519},
 		{"id":"c2d777bb7a900af2","type":"file","file":"Attachments/Pasted image 20240606210847.png","x":-3040,"y":-1000,"width":414,"height":443},
 		{"id":"b729414d21599577","type":"file","file":"Attachments/Pasted image 20240606210912.png","x":-3460,"y":-1000,"width":400,"height":373},
 		{"id":"2006d0ae63538ac4","type":"file","file":"Attachments/Pasted image 20240606210955.png","x":-3044,"y":-540,"width":423,"height":280},
@@ -31,7 +30,11 @@
 		{"id":"3b5deccd91ced32b","type":"file","file":"Attachments/Pasted image 20240606212231.png","x":-1820,"y":-2279,"width":400,"height":359},
 		{"id":"c6cd3e881bac9c4e","type":"file","file":"Attachments/Pasted image 20240606211053.png","x":-2260,"y":-2520,"width":422,"height":340},
 		{"id":"7c60f16f84b57f16","type":"file","file":"Attachments/Pasted image 20240606212305.png","x":-1820,"y":-1900,"width":400,"height":315},
-		{"id":"a9a53561964996ae","type":"file","file":"Attachments/Pasted image 20240606211459.png","x":-2266,"y":-2160,"width":428,"height":380}
+		{"id":"a9a53561964996ae","type":"file","file":"Attachments/Pasted image 20240606211459.png","x":-2266,"y":-2160,"width":428,"height":380},
+		{"id":"4476fb00c8a12330","type":"file","file":"06 Hexmap/Encounter Tables.md","x":-2160,"y":-720,"width":420,"height":379},
+		{"id":"dc8e94feea431801","type":"file","file":"06 Hexmap/Encounter Tables.md","x":-2600,"y":-1090,"width":420,"height":181},
+		{"id":"53a6a7b1c564d201","type":"file","file":"05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md","x":-1520,"y":-1000,"width":640,"height":980},
+		{"id":"1466927067cf1b9f","type":"file","file":"Attachments/Pasted image 20240627200458.png","x":500,"y":-284,"width":400,"height":324}
 	],
 	"edges":[
 		{"id":"87e821d037a8be9d","fromNode":"53a6a7b1c564d201","fromSide":"right","toNode":"b223a6b8812a247d","toSide":"left"},

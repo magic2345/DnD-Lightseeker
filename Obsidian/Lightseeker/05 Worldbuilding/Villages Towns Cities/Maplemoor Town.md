@@ -14,6 +14,7 @@ Located in [[Garmund Forest]].
 
 Points of interests:
 - **Statue of Vanderson**. a dwarf miner wearing a mask, the founder of the town, built into an alcove on on the side of a mountain cliff.
+- **Guildmaster Consortium.** The town is led by [[Garadun]]. There are two other big powers; Bharmir (blacksmith mogul), Mileena (sage who controls knowledge)
 - **Chapel of [[Minareth]]**. goddess of livestock and fertility. Many attribute the town's prosperity to her blessing.
 - **Producers of Crops and Livestock.** The town's main export are crops and livestock, such as cows, sheep, etc.
 - **Cleansing Aura.** The town has a special aura around it due to [[Helen]] and her crystal. It allows the crops and livestock grown there to be mostly uncontaminated.

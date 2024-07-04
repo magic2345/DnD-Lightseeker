@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5cb61be90e17881",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 Hexmap/Key.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "59bfcc306739ca5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Worldbuilding/Places Areas/Vain Gardens of Uerna.md",
+                "file": "05 Worldbuilding/Villages Towns Cities/Oakweller Village.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,35 +79,10 @@
               "state": {
                 "file": "01 Characters/01 Maplemoor/Maplemoor Region Canvas.canvas",
                 "viewState": {
-                  "x": -3549.6342065505323,
-                  "y": -749.6487608102315,
-                  "zoom": 0.42160554968166003
+                  "x": 515.5718653064928,
+                  "y": -485.98764854093355,
+                  "zoom": 0.0882722163483266
                 }
-              }
-            }
-          },
-          {
-            "id": "eeea135d5e3c548c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56b1bc77ed22e27e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Session Recaps/Session 3 Recap.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -134,22 +97,59 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 8
-      },
-      {
-        "id": "3681a7d23121d5d2",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "e94011e34521319b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Session Recaps/Session 4 Recap.md",
+                "file": "04 Session Recaps/Session 5 Recap.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01057cab39b3201f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Session Recaps/Session 2 Recap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "44ce42e5434fd2a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5cb61be90e17881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Hexmap/Key.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eeea135d5e3c548c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Session Recaps/Session 4 Recap.md",
+                "file": "06 Hexmap/Rumor Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Session Recaps/Session 4 Recap.md",
+                "file": "06 Hexmap/Rumor Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Session Recaps/Session 4 Recap.md"
+                "file": "06 Hexmap/Rumor Table.md"
               }
             }
           }
@@ -281,15 +281,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e94011e34521319b",
+  "active": "3775e6916cfc868f",
   "lastOpenFiles": [
-    "Attachments/81iCK+fqN2L._UF1000,1000_QL80_.jpg",
+    "06 Hexmap/Key.md",
+    "06 Hexmap/Rumor Table.md",
+    "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
+    "04 Session Recaps/Session 2 Recap.md",
+    "04 Session Recaps/Session 5 Recap.md",
+    "01 Characters/01 Maplemoor/Erasmus.md",
+    "01 Characters/01 Maplemoor/Maplemoor Region Canvas.canvas",
+    "Attachments/Pasted image 20240627200458.png",
+    "06 Hexmap/Encounter Tables.md",
+    "04 Session Recaps/Session 1 Recap.md",
     "04 Session Recaps/Session 3 Recap.md",
     "04 Session Recaps/Session 4 Recap.md",
-    "06 Hexmap/Rumor Table.md",
-    "01 Characters/04 Chomoor/Chomoor Region.canvas",
+    "00 Game Details/Game Pitch.md",
+    "01 Characters/01 Maplemoor/Augustus Scaleshield.md",
+    "05 Worldbuilding/Rivers Lakes Ponds/Cairn Lake.md",
+    "05 Worldbuilding/Villages Towns Cities/Oakweller Village.md",
+    "01 Characters/03 Cairn Lake/Iris.md",
+    "01 Characters/03 Cairn Lake/Rose.md",
     "05 Worldbuilding/Places Areas/Vain Gardens of Uerna.md",
-    "06 Hexmap/Key.md",
+    "Attachments/81iCK+fqN2L._UF1000,1000_QL80_.jpg",
+    "01 Characters/04 Chomoor/Chomoor Region.canvas",
     "05 Worldbuilding/Villages Towns Cities/Dona Village.md",
     "05 Worldbuilding/Villages Towns Cities/Innswood Village Ruins.md",
     "05 Worldbuilding/Divine/Agni.md",
@@ -299,19 +313,7 @@
     "05 Worldbuilding/Eldritch/Marielle.md",
     "05 Worldbuilding/Eldritch/Tharract.md",
     "05 Worldbuilding/Eldritch/Nazzar.md",
-    "05 Worldbuilding/Creatures/Monstrosity/Lamia.md",
-    "01 Characters/01 Maplemoor/Garadun.md",
-    "04 Session Recaps/Session 2 Recap.md",
-    "01 Characters/03 Cairn Lake/Barnabas.md",
-    "06 Hexmap/Encounter Tables.md",
-    "01 Characters/01 Maplemoor/Maplemoor Region Canvas.canvas",
-    "06 Hexmap/Hexmap Rules.md",
-    "00 Game Details/Game Pitch.md",
-    "05 Worldbuilding/Factions/Rhalgar's Fang.md",
-    "05 Worldbuilding/Location Keys/Seal of the Deep.md",
     "Attachments/Pasted image 20240606212748.png",
-    "05 Worldbuilding/Factions/Harvington House.md",
-    "05 Worldbuilding/Factions/Xandrine Palace.md",
     "Attachments/Pasted image 20240606212305.png",
     "Attachments/Pasted image 20240606212231.png",
     "Attachments/Pasted image 20240606212213.png",
@@ -319,8 +321,6 @@
     "Attachments/Pasted image 20240606211616.png",
     "Attachments/Pasted image 20240606211459.png",
     "Attachments/Pasted image 20240606211431.png",
-    "Attachments/Pasted image 20240606211407.png",
-    "Attachments/Pasted image 20240606211235.png",
     "01 Characters/04 Chomoor",
     "Untitled.canvas",
     "01 Characters/00 Deceased",
