@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"8d61b951918dbcb4","type":"file","file":"01 Characters/03 Cairn Lake/Barnabas.md","x":-720,"y":-400,"width":400,"height":560},
+		{"id":"98d598edddd6bdfb","type":"file","file":"01 Characters/03 Cairn Lake/Rose.md","x":-720,"y":180,"width":400,"height":400},
+		{"id":"89cbe4c40232b3e3","type":"file","file":"05 Worldbuilding/Villages Towns Cities/Oakweller Village.md","x":-260,"y":-400,"width":680,"height":780},
+		{"id":"abd543786c0e2d5b","type":"file","file":"01 Characters/03 Cairn Lake/Iris.md","x":480,"y":-400,"width":400,"height":400},
+		{"id":"5f406e7602e5b77e","type":"file","file":"Attachments/Pasted image 20240717212238.png","x":-2160,"y":-400,"width":515,"height":448},
+		{"id":"b7928349952fdeb9","type":"text","text":"##### Enlightenment Warrior","x":-2160,"y":-430,"width":280,"height":60},
+		{"id":"8df5b84fba99d019","type":"file","file":"Attachments/Pasted image 20240717212507.png","x":-2160,"y":100,"width":515,"height":496},
+		{"id":"725f53b807e3cb6c","type":"text","text":"##### Enlightenment Cultist","x":-2160,"y":70,"width":250,"height":60},
+		{"id":"a822463418239b50","type":"file","file":"06 Hexmap/Encounter Tables.md","x":-1560,"y":-400,"width":680,"height":900},
+		{"id":"886018d04c49eb28","type":"file","file":"Attachments/Pasted image 20240717213300.png","x":-2960,"y":-430,"width":739,"height":691},
+		{"id":"0737f7617625095c","type":"file","file":"Attachments/Pasted image 20240717213627.png","x":-2164,"y":640,"width":524,"height":420},
+		{"id":"9ba231bbbf90532e","type":"file","file":"Attachments/Pasted image 20240717214024.png","x":-2910,"y":284,"width":640,"height":566},
+		{"id":"cd11d6e0c93e1acf","type":"file","file":"Attachments/Pasted image 20240717214516.png","x":-2910,"y":920,"width":640,"height":525},
+		{"id":"f90b8cfdd62c7bb2","type":"file","file":"Attachments/Pasted image 20240717214648.png","x":-3640,"y":-430,"width":619,"height":731},
+		{"id":"e1f7af77baac47ec","type":"file","file":"Attachments/Pasted image 20240717215153.png","x":-3670,"y":360,"width":680,"height":699},
+		{"id":"3a5c34dde6856d67","type":"file","file":"Attachments/Pasted image 20240717215703.png","x":-3670,"y":1120,"width":680,"height":568}
+	],
+	"edges":[]
+}

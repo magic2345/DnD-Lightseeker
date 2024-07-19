@@ -113,3 +113,30 @@ Border Encounter: 1 in 1d20
 | 6   | Felled trees                    |
 | 7   | Blood splatters                 |
 | 8   | Giant nest                      |
+
+##### Around Cairn Lake
+###### Encounter
+
+| d20   | Encounter                    | Tracks | Lair |
+| ----- | ---------------------------- | ------ | ---- |
+| 1-3   | 1d4+1 Enlightenment Cultists | 40%    | 20%  |
+| 4-6   | 1d4 Grung Elite Warrior      | 40%    | 20%  |
+| 7-8   | 1d4+2 Locathah Hunter        | 40%    | 20%  |
+| 9-10  | 1d4+2 Crag Cat               | 40%    | 30%  |
+| 11    | Giant Subterranean Lizard    | 40%    | 30%  |
+| 12-14 | 1d4+1 Death Dog              | 40%    | 20%  |
+| 15-17 | 1d4+2 Grung Wildling         | 40%    | 20%  |
+| 18    | Fate Hag (Vienna)            | 25%    | 40%  |
+| 19-20 | 1d4 Shadow Mastiffs          | 30%    | 30%  |
+|       |                              |        |      |
+###### Location
+| d8  | Location/Environmental Features |
+| --- | ------------------------------- |
+| 1   | Ashes in the wind               |
+| 2   | Ruined camp                     |
+| 3   | Giant tree with a hole          |
+| 4   | Giant boulders                  |
+| 5   | Cave                            |
+| 6   | Felled trees                    |
+| 7   | Blood splatters                 |
+| 8   | Giant nest                      |

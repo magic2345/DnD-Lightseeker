@@ -34,7 +34,9 @@
 		{"id":"4476fb00c8a12330","type":"file","file":"06 Hexmap/Encounter Tables.md","x":-2160,"y":-720,"width":420,"height":379},
 		{"id":"dc8e94feea431801","type":"file","file":"06 Hexmap/Encounter Tables.md","x":-2600,"y":-1090,"width":420,"height":181},
 		{"id":"53a6a7b1c564d201","type":"file","file":"05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md","x":-1520,"y":-1000,"width":640,"height":980},
-		{"id":"1466927067cf1b9f","type":"file","file":"Attachments/Pasted image 20240627200458.png","x":500,"y":-284,"width":400,"height":324}
+		{"id":"1466927067cf1b9f","type":"file","file":"Attachments/Pasted image 20240627200458.png","x":480,"y":-300,"width":470,"height":380},
+		{"id":"29b83c7db34073dd","type":"text","text":"### Earth Furrow, Trait\nIf the bulette moves within 10 feet underneath the space of Large or smaller creature using its burrow speed, the creature must make a DC 15 Strength (Athletics) or DC 15 Dexterity (Acrobatics) ability check or be knocked prone.","x":950,"y":-300,"width":400,"height":178},
+		{"id":"41579aa3a1126cac","type":"text","text":"### Backdraft, Trait\nA creature that hits the fire elemental with a melee attack while within 10 feet of it takes 5 (1d10) fire damage.","x":950,"y":-120,"width":400,"height":160}
 	],
 	"edges":[
 		{"id":"87e821d037a8be9d","fromNode":"53a6a7b1c564d201","fromSide":"right","toNode":"b223a6b8812a247d","toSide":"left"},

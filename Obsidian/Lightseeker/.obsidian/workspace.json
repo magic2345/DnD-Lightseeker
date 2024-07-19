@@ -6,29 +6,32 @@
       {
         "id": "6b4ccd68e462ece0",
         "type": "tabs",
+        "dimension": 60.03159557661928,
         "children": [
           {
-            "id": "59bfcc306739ca5a",
+            "id": "d5cb61be90e17881",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Worldbuilding/Villages Towns Cities/Oakweller Village.md",
+                "file": "06 Hexmap/Key.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ea478ab46082b21e",
+            "id": "59bfcc306739ca5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "06 Hexmap/Encounter Tables.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "01 Characters/03 Cairn Lake/Oakweller Region Canvas.canvas",
+                "viewState": {
+                  "x": -2477.75059868999,
+                  "y": 412.3437247015546,
+                  "zoom": -1.333333333333333
+                }
               }
             }
           },
@@ -79,9 +82,9 @@
               "state": {
                 "file": "01 Characters/01 Maplemoor/Maplemoor Region Canvas.canvas",
                 "viewState": {
-                  "x": 515.5718653064928,
-                  "y": -485.98764854093355,
-                  "zoom": 0.0882722163483266
+                  "x": -3187.7044212656715,
+                  "y": -422.2519891638663,
+                  "zoom": 1
                 }
               }
             }
@@ -99,62 +102,66 @@
             }
           },
           {
-            "id": "e94011e34521319b",
+            "id": "eeea135d5e3c548c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Session Recaps/Session 5 Recap.md",
+                "file": "01 Characters/01 Maplemoor/Augustus Scaleshield.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "01057cab39b3201f",
+            "id": "567a870349c0be9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Session Recaps/Session 2 Recap.md",
+                "file": "01 Characters/03 Cairn Lake/Iris.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
-        "id": "44ce42e5434fd2a1",
+        "id": "84eeb0a99a3e3f97",
         "type": "tabs",
+        "dimension": 39.968404423380726,
         "children": [
           {
-            "id": "d5cb61be90e17881",
+            "id": "ea478ab46082b21e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Hexmap/Key.md",
+                "file": "06 Hexmap/Encounter Tables.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "eeea135d5e3c548c",
+            "id": "f040b97848102c9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
+                "file": "05 Worldbuilding/Eldritch/Marielle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 Hexmap/Rumor Table.md",
+                "file": "05 Worldbuilding/Eldritch/Marielle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 Hexmap/Rumor Table.md",
+                "file": "05 Worldbuilding/Eldritch/Marielle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 Hexmap/Rumor Table.md"
+                "file": "05 Worldbuilding/Eldritch/Marielle.md"
               }
             }
           }
@@ -281,46 +288,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3775e6916cfc868f",
+  "active": "f040b97848102c9a",
   "lastOpenFiles": [
-    "06 Hexmap/Key.md",
-    "06 Hexmap/Rumor Table.md",
-    "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
-    "04 Session Recaps/Session 2 Recap.md",
-    "04 Session Recaps/Session 5 Recap.md",
-    "01 Characters/01 Maplemoor/Erasmus.md",
-    "01 Characters/01 Maplemoor/Maplemoor Region Canvas.canvas",
-    "Attachments/Pasted image 20240627200458.png",
+    "05 Worldbuilding/Eldritch/Tharract.md",
+    "05 Worldbuilding/Eldritch/Nazzar.md",
+    "05 Worldbuilding/Eldritch/Marielle.md",
+    "05 Worldbuilding/Eldritch/Aeterna.md",
+    "05 Worldbuilding/Eldritch/Fafnir.md",
     "06 Hexmap/Encounter Tables.md",
+    "04 Session Recaps/Session 4 Recap.md",
+    "04 Session Recaps/Session 5 Recap.md",
+    "01 Characters/03 Cairn Lake/Oakweller Region Canvas.canvas",
+    "Attachments/Pasted image 20240717215703.png",
+    "Attachments/Pasted image 20240717215153.png",
+    "Attachments/Pasted image 20240717214648.png",
+    "Attachments/Pasted image 20240717214516.png",
+    "Attachments/Pasted image 20240717214024.png",
+    "Attachments/Pasted image 20240717213627.png",
+    "Attachments/Pasted image 20240717213300.png",
+    "Attachments/Pasted image 20240717212507.png",
+    "Attachments/Pasted image 20240717212238.png",
+    "06 Hexmap/Rumor Table.md",
+    "06 Hexmap/Hexmap Rules.md",
+    "05 Worldbuilding/Villages Towns Cities/Oakweller Village.md",
+    "01 Characters/01 Maplemoor/Augustus Scaleshield.md",
+    "01 Characters/03 Cairn Lake/Iris.md",
+    "06 Hexmap/Key.md",
+    "05 Worldbuilding/Villages Towns Cities/Maplemoor Town.md",
+    "01 Characters/01 Maplemoor/Maplemoor Region Canvas.canvas",
+    "00 Game Details/Game Pitch.md",
+    "04 Session Recaps/Session 2 Recap.md",
+    "01 Characters/01 Maplemoor/Erasmus.md",
+    "Attachments/Pasted image 20240627200458.png",
     "04 Session Recaps/Session 1 Recap.md",
     "04 Session Recaps/Session 3 Recap.md",
-    "04 Session Recaps/Session 4 Recap.md",
-    "00 Game Details/Game Pitch.md",
-    "01 Characters/01 Maplemoor/Augustus Scaleshield.md",
     "05 Worldbuilding/Rivers Lakes Ponds/Cairn Lake.md",
-    "05 Worldbuilding/Villages Towns Cities/Oakweller Village.md",
-    "01 Characters/03 Cairn Lake/Iris.md",
     "01 Characters/03 Cairn Lake/Rose.md",
     "05 Worldbuilding/Places Areas/Vain Gardens of Uerna.md",
-    "Attachments/81iCK+fqN2L._UF1000,1000_QL80_.jpg",
     "01 Characters/04 Chomoor/Chomoor Region.canvas",
     "05 Worldbuilding/Villages Towns Cities/Dona Village.md",
     "05 Worldbuilding/Villages Towns Cities/Innswood Village Ruins.md",
-    "05 Worldbuilding/Divine/Agni.md",
-    "05 Worldbuilding/Divine/Minareth.md",
-    "05 Worldbuilding/Divine/Wagner.md",
-    "05 Worldbuilding/Divine/Rhalgar.md",
-    "05 Worldbuilding/Eldritch/Marielle.md",
-    "05 Worldbuilding/Eldritch/Tharract.md",
-    "05 Worldbuilding/Eldritch/Nazzar.md",
-    "Attachments/Pasted image 20240606212748.png",
-    "Attachments/Pasted image 20240606212305.png",
-    "Attachments/Pasted image 20240606212231.png",
-    "Attachments/Pasted image 20240606212213.png",
-    "Attachments/Pasted image 20240606211925.png",
-    "Attachments/Pasted image 20240606211616.png",
-    "Attachments/Pasted image 20240606211459.png",
-    "Attachments/Pasted image 20240606211431.png",
     "01 Characters/04 Chomoor",
     "Untitled.canvas",
     "01 Characters/00 Deceased",

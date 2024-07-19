@@ -26,7 +26,7 @@ Predicament:
 
 Bonds:
 - Jasmine (Wife). She lives in [[Oakweller Village]]. A human seamstress with subpar skills.
-- Julius (Son). A curious teenager. Treats his dad as a hero.
+- Julias (Daughter). A curious teenager. Treats his dad as a hero.
 - [[Iris]] (Daughter). A sickly child. Often stays at home.
 
 Solved Predicaments:
